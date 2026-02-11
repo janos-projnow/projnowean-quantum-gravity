@@ -1,0 +1,13 @@
+name: pqg-gw-pipeline
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - numpy=2.4.1
+  - scipy=1.17.0
+  - matplotlib=3.10.8
+  - gwpy=4.0.0
+  - pycbc=2.10.0
+  - pip
