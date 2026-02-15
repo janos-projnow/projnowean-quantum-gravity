@@ -10,3 +10,7 @@ Repository mirrors and full documentation:
 https://projnoweanquantumqravity.quora.com/
 https://zenodo.org/records/18445925
 https://doi.org/10.5281/zenodo.18445925
+
+
+Tutorial video:
+https://youtu.be/qZSPvah_gLk
