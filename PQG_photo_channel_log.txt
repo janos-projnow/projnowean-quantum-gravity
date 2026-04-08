@@ -1,0 +1,5 @@
+=== Combined beta2 over photon-channel events (inverse-variance weighted) ===
+  beta2_combined = 4.578e-05
+  sigma_combined = 1.209e-05
+  Z = 3.79 sigma
+

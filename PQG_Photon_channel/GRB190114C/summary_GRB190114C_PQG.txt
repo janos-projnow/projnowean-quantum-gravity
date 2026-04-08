@@ -1,0 +1,22 @@
+PQG vs GRB photon-channel pipeline summary
+=========================================
+
+Generated at: 2026-04-08T00:32:58.412094+00:00 UTC
+
+Input configuration:
+  Event name: GRB190114C
+  TTE files: glg_tte_n0_bn190114873_v00.fit, glg_tte_n1_bn190114873_v00.fit, glg_tte_n2_bn190114873_v00.fit, glg_tte_n3_bn190114873_v00.fit, glg_tte_n4_bn190114873_v00.fit, glg_tte_n5_bn190114873_v00.fit, glg_tte_n6_bn190114873_v00.fit, glg_tte_n7_bn190114873_v00.fit, glg_tte_n8_bn190114873_v00.fit, glg_tte_n9_bn190114873_v00.fit, glg_tte_na_bn190114873_v00.fit, glg_tte_nb_bn190114873_v00.fit
+  Trigger MET: 569192088.087618
+  Time window: [-5.0, 100.0] s relative to trigger
+  Prior on beta2 (from GW or theory): mean=0.0, sigma=0.0001
+
+Results (PQG photon-channel analysis):
+  Number of photons used: 1333540
+  Used energy information: True
+  Posterior beta2 mean: 2.2167148609405966e-06
+  Posterior beta2 sigma: 3.366574555446658e-05
+
+Interpretation (to be expanded in the paper):
+  - Here one can discuss how this constraint compares to the
+    GW-only (LIGO/Virgo/KAGRA) constraints and to other channels,
+    and what it implies for Planck-scale quantum gravity models.
