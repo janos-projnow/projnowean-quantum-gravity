@@ -40,3 +40,5 @@ Not theoretically. Not hypothetically.
 But empirically — in the sky, in the data, in the messengers themselves.
 
 This update represents the most significant step yet toward a reproducible, data‑driven quantum gravity framework.
+
+Codes and documentations was generated with Microsoft Copilot
