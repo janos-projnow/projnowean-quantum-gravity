@@ -7,9 +7,9 @@ The scripts included here wrap common GWTC workflows—data retrieval, preproces
 
 Repository mirrors and full documentation:
 
-https://projnoweanquantumqravity.quora.com/
-https://zenodo.org/records/18445925
+https://projnoweanquantumgravity.quora.com/
 https://doi.org/10.5281/zenodo.18445925
+https://drive.google.com/drive/folders/1nAklzCkuU6JFfSFgBFTPuh4_kubTQfBF
 
 
 Tutorial video:
