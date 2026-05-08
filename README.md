@@ -54,11 +54,11 @@ This update represents the most significant step yet toward a reproducible, data
 
 - **Heisenberg, Werner**, *Quantum-theoretical Re-interpretation of Kinematic and Mechanical Relations*, 1925, https://doi.org/10.1007/BF01328377
 
+- **Pauli, Wolfgang**, *On the Connection Between the Completion of the Electron Theory and the Exclusion Principle*, 1925, https://doi.org/10.1007/BF01397477
+
 - **Schrödinger, Erwin**, *Quantisierung als Eigenwertproblem*, 1926, https://doi.org/10.1002/andp.19263851302
 
 - **Born, Max**, *Zur Quantenmechanik*, 1926, https://doi.org/10.1007/BF01397477
-
-- **Pauli, Wolfgang**, *On the Connection Between the Completion of the Electron Theory and the Exclusion Principle*, 1925, https://doi.org/10.1007/BF01397477
 
 - **Dirac, P. A. M.**, *The Quantum Theory of the Electron*, 1928, https://doi.org/10.1098/rspa.1928.0023
 
