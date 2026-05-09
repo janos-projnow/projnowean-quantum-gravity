@@ -1,0 +1,7 @@
+GLOBAL SIGNIFICANCE (cleaned, nan-free)
+
+N pairs: 314
+mean Δ: 8.145232e-02
+std Δ:  5.740068e-02
+Z-score: 25.145
+p-value: 0.000e+00
