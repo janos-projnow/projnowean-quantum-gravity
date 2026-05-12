@@ -44,6 +44,10 @@ This update represents the most significant step yet toward a reproducible, data
 
 # Acknowledgments and References
 
+- **Lamé, Gabriel**, *Leçons sur la théorie mathématique de l’élasticité des corps solides*, 1852, https://en.wikipedia.org/wiki/Lam%C3%A9_parameters
+  
+- **Lamé, Gabriel**, *Leçons sur les coordonnées curvilignes et leurs diverses applications*, 1859, https://en.wikipedia.org/wiki/Lam%C3%A9_parameters
+
 - **Planck, Max**, *On the Law of Distribution of Energy in the Normal Spectrum*, 1900, https://doi.org/10.1002/andp.19013090310
 
 - **Bohr, Niels**, *On the Constitution of Atoms and Molecules*, 1913, https://doi.org/10.1080/14786441308634955
@@ -72,9 +76,15 @@ This update represents the most significant step yet toward a reproducible, data
 
 - **Higgs, Peter Ware**, *Broken Symmetries and the Masses of Gauge Bosons*, 1964, https://doi.org/10.1103/PhysRevLett.13.508
 
+- **Faddeev, Ludvig and Popov, Victor**, *Feynman Diagrams for the Yang–Mills Field*, 1967, arXiv:2003.08266, https://doi.org/10.1016/0370-2693(67)90067-6
+
+- **Faddeev, Ludvig**, *The Feynman Integral for Singular Lagrangians*, 1969, arXiv:0811.3311, https://doi.org/10.1007/BF01028566
+
 - **Lovelock, David**, *The Einstein Tensor and Its Generalizations*, 1971, DOI: 10.1063/1.1665613, https://doi.org/10.1063/1.1665613
 
 - **Kobayashi, Makoto and Maskawa, Toshihide**, *CP Violation in the Renormalizable Theory of Weak Interaction*, 1973, https://doi.org/10.1143/PTP.49.652
+
+- **Faddeev, Ludvig and Popov, Victor**, *Covariant Quantization of the Gravitational Field*, 1974, https://doi.org/10.1070/PU1974v016n06ABEH004089
 
 - **Donoghue, John Francis**, *General Relativity as an Effective Field Theory*, 1994, DOI: 10.1103/PhysRevD.50.3874, https://doi.org/10.1103/PhysRevD.50.3874
 
