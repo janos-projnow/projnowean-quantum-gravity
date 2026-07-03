@@ -47,6 +47,10 @@ But empirically — in the sky, in the data, in the messengers themselves.
 
 This update represents the most significant step yet toward a reproducible, data‑driven quantum gravity framework.
 
+Many thanks to the Manim developers for the “Quantum Gravity in Action” animations.
+Their work enables us to see gravity in motion at the microscopic Planck‑lattice level.
+https://github.com/manimCommunity/manim
+
 # Acknowledgments and References
 
 - **Lamé, Gabriel**, *Leçons sur la théorie mathématique de l’élasticité des corps solides*, 1852, https://en.wikipedia.org/wiki/Lam%C3%A9_parameters
