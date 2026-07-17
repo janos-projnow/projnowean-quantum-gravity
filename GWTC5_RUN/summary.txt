@@ -1,0 +1,3601 @@
+PQG-PN vs GR RMS summary
+Generated: 2026-07-17 06:40:14.311614
+
+Event: GW250119_190238
+  Approximant: IMRPhenomD
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  7.786477e-01
+  Combined RMS PQG: 6.666206e-01
+  Delta: 1.120271e-01
+
+Event: GW250119_190238
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.357744e-01
+  Combined RMS PQG: 6.677975e-01
+  Delta: 6.797685e-02
+
+Event: GW250119_025138
+  Approximant: IMRPhenomD
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  8.433828e-01
+  Combined RMS PQG: 7.213568e-01
+  Delta: 1.220260e-01
+
+Event: GW250119_025138
+  Approximant: SEOBNRv4
+  beta2_best: -4.000000e-05
+  Combined RMS GR:  8.369501e-01
+  Combined RMS PQG: 7.215873e-01
+  Delta: 1.153628e-01
+
+Event: GW250118_170523
+  Approximant: IMRPhenomD
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  7.384932e-01
+  Combined RMS PQG: 7.003267e-01
+  Delta: 3.816657e-02
+
+Event: GW250118_170523
+  Approximant: SEOBNRv4
+  beta2_best: -8.500000e-05
+  Combined RMS GR:  7.550853e-01
+  Combined RMS PQG: 7.033115e-01
+  Delta: 5.177380e-02
+
+Event: GW250118_055802
+  Approximant: IMRPhenomD
+  beta2_best: -6.000000e-05
+  Combined RMS GR:  7.144601e-01
+  Combined RMS PQG: 6.463286e-01
+  Delta: 6.813148e-02
+
+Event: GW250118_055802
+  Approximant: SEOBNRv4
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  7.461616e-01
+  Combined RMS PQG: 6.486436e-01
+  Delta: 9.751809e-02
+
+Event: GW250118_023225
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  1.291515e+00
+  Combined RMS PQG: 1.227848e+00
+  Delta: 6.366719e-02
+
+Event: GW250118_023225
+  Approximant: SEOBNRv4
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  1.379352e+00
+  Combined RMS PQG: 1.229348e+00
+  Delta: 1.500044e-01
+
+Event: GW250116_015318
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.682004e-01
+  Combined RMS PQG: 4.938541e-01
+  Delta: 1.743464e-01
+
+Event: GW250116_015318
+  Approximant: SEOBNRv4
+  beta2_best: 9.500000e-05
+  Combined RMS GR:  5.943645e-01
+  Combined RMS PQG: 4.954307e-01
+  Delta: 9.893383e-02
+
+Event: GW250114_082203
+  Approximant: IMRPhenomD
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  1.156331e+00
+  Combined RMS PQG: 1.072276e+00
+  Delta: 8.405487e-02
+
+Event: GW250114_082203
+  Approximant: SEOBNRv4
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  1.154958e+00
+  Combined RMS PQG: 1.068903e+00
+  Delta: 8.605512e-02
+
+Event: GW250109_010541
+  Approximant: IMRPhenomD
+  beta2_best: 5.000000e-05
+  Combined RMS GR:  6.842581e-01
+  Combined RMS PQG: 6.543427e-01
+  Delta: 2.991547e-02
+
+Event: GW250109_010541
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  8.021355e-01
+  Combined RMS PQG: 6.583635e-01
+  Delta: 1.437720e-01
+
+Event: GW250108_152221
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.713004e-01
+  Combined RMS PQG: 4.501145e-01
+  Delta: 3.211860e-01
+
+Event: GW250108_152221
+  Approximant: SEOBNRv4
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  5.318587e-01
+  Combined RMS PQG: 4.355800e-01
+  Delta: 9.627862e-02
+
+Event: GW250104_015122
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  2.281114e+00
+  Combined RMS PQG: 2.145774e+00
+  Delta: 1.353404e-01
+
+Event: GW250104_015122
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  2.281423e+00
+  Combined RMS PQG: 2.146674e+00
+  Delta: 1.347487e-01
+
+Event: GW250101_011205
+  Approximant: IMRPhenomD
+  beta2_best: -6.500000e-05
+  Combined RMS GR:  6.543905e-01
+  Combined RMS PQG: 5.358535e-01
+  Delta: 1.185370e-01
+
+Event: GW250101_011205
+  Approximant: SEOBNRv4
+  beta2_best: 5.500000e-05
+  Combined RMS GR:  5.957744e-01
+  Combined RMS PQG: 5.359274e-01
+  Delta: 5.984697e-02
+
+Event: GW241231_054133
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.658415e-01
+  Combined RMS PQG: 6.153241e-01
+  Delta: 5.051739e-02
+
+Event: GW241231_054133
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.097519e-01
+  Combined RMS PQG: 6.179506e-01
+  Delta: 9.180134e-02
+
+Event: GW241230_233618
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.522810e-01
+  Combined RMS PQG: 6.224026e-01
+  Delta: 2.987837e-02
+
+Event: GW241230_233618
+  Approximant: SEOBNRv4
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  6.688220e-01
+  Combined RMS PQG: 6.346869e-01
+  Delta: 3.413506e-02
+
+Event: GW241230_084504
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW241230_084504
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW241229_155844
+  Approximant: IMRPhenomD
+  beta2_best: -5.500000e-05
+  Combined RMS GR:  4.895470e-01
+  Combined RMS PQG: 4.158384e-01
+  Delta: 7.370867e-02
+
+Event: GW241229_155844
+  Approximant: SEOBNRv4
+  beta2_best: -6.500000e-05
+  Combined RMS GR:  4.408396e-01
+  Combined RMS PQG: 4.157447e-01
+  Delta: 2.509488e-02
+
+Event: GW241225_082815
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  8.994544e-01
+  Combined RMS PQG: 8.668028e-01
+  Delta: 3.265169e-02
+
+Event: GW241225_082815
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.875504e-01
+  Combined RMS PQG: 8.454778e-01
+  Delta: 4.207260e-02
+
+Event: GW241210_120900
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.103023e-01
+  Combined RMS PQG: 5.215861e-01
+  Delta: 8.871622e-02
+
+Event: GW241210_120900
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.112070e-01
+  Combined RMS PQG: 5.146752e-01
+  Delta: 9.653186e-02
+
+Event: GW241210_060606
+  Approximant: IMRPhenomD
+  beta2_best: 6.000000e-05
+  Combined RMS GR:  6.716795e-01
+  Combined RMS PQG: 6.196832e-01
+  Delta: 5.199629e-02
+
+Event: GW241210_060606
+  Approximant: SEOBNRv4
+  beta2_best: 4.000000e-05
+  Combined RMS GR:  6.425885e-01
+  Combined RMS PQG: 6.223531e-01
+  Delta: 2.023549e-02
+
+Event: GW241201_055758
+  Approximant: IMRPhenomD
+  beta2_best: 6.000000e-05
+  Combined RMS GR:  7.050100e-01
+  Combined RMS PQG: 6.057058e-01
+  Delta: 9.930424e-02
+
+Event: GW241201_055758
+  Approximant: SEOBNRv4
+  beta2_best: 6.000000e-05
+  Combined RMS GR:  7.051854e-01
+  Combined RMS PQG: 6.043868e-01
+  Delta: 1.007986e-01
+
+Event: GW241130_110422
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.507018e-01
+  Combined RMS PQG: 5.866955e-01
+  Delta: 6.400634e-02
+
+Event: GW241130_110422
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.441977e-01
+  Combined RMS PQG: 5.814930e-01
+  Delta: 6.270474e-02
+
+Event: GW241130_034908
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.064538e-01
+  Combined RMS PQG: 5.992441e-01
+  Delta: 1.072097e-01
+
+Event: GW241130_034908
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.220111e-01
+  Combined RMS PQG: 5.984512e-01
+  Delta: 1.235598e-01
+
+Event: GW241129_021832
+  Approximant: IMRPhenomD
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  8.530979e-01
+  Combined RMS PQG: 7.966158e-01
+  Delta: 5.648208e-02
+
+Event: GW241129_021832
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.646766e-01
+  Combined RMS PQG: 7.992899e-01
+  Delta: 6.538665e-02
+
+Event: GW241127_061008
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  8.397150e-01
+  Combined RMS PQG: 8.075326e-01
+  Delta: 3.218242e-02
+
+Event: GW241127_061008
+  Approximant: SEOBNRv4
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  8.639184e-01
+  Combined RMS PQG: 8.112438e-01
+  Delta: 5.267455e-02
+
+Event: GW241125_010116
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.230981e-01
+  Combined RMS PQG: 6.413703e-01
+  Delta: 8.172778e-02
+
+Event: GW241125_010116
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.204766e-01
+  Combined RMS PQG: 6.521120e-01
+  Delta: 6.836462e-02
+
+Event: GW241124_024914
+  Approximant: IMRPhenomD
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  6.795759e-01
+  Combined RMS PQG: 6.414570e-01
+  Delta: 3.811893e-02
+
+Event: GW241124_024914
+  Approximant: SEOBNRv4
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  6.853734e-01
+  Combined RMS PQG: 6.418758e-01
+  Delta: 4.349764e-02
+
+Event: GW241116_151753
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  7.036335e-01
+  Combined RMS PQG: 6.807978e-01
+  Delta: 2.283567e-02
+
+Event: GW241116_151753
+  Approximant: SEOBNRv4
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  7.161418e-01
+  Combined RMS PQG: 6.836326e-01
+  Delta: 3.250917e-02
+
+Event: GW241114_024711
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.202013e-01
+  Combined RMS PQG: 6.706776e-01
+  Delta: 4.952371e-02
+
+Event: GW241114_024711
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.108892e-01
+  Combined RMS PQG: 6.772813e-01
+  Delta: 3.360789e-02
+
+Event: GW241113_163507
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW241113_163507
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW241111_111552
+  Approximant: IMRPhenomD
+  beta2_best: -6.500000e-05
+  Combined RMS GR:  8.628895e-01
+  Combined RMS PQG: 8.153755e-01
+  Delta: 4.751404e-02
+
+Event: GW241111_111552
+  Approximant: SEOBNRv4
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  9.021252e-01
+  Combined RMS PQG: 8.140205e-01
+  Delta: 8.810473e-02
+
+Event: GW241110_124123
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.280053e-01
+  Combined RMS PQG: 5.248913e-01
+  Delta: 1.031140e-01
+
+Event: GW241110_124123
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.728084e-01
+  Combined RMS PQG: 5.376517e-01
+  Delta: 3.515673e-02
+
+Event: GW241109_115924
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW241109_115924
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW241109_033317
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW241109_033317
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW241102_144729
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.676097e-01
+  Combined RMS PQG: 5.304233e-01
+  Delta: 3.718649e-02
+
+Event: GW241102_144729
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.928204e-01
+  Combined RMS PQG: 5.267300e-01
+  Delta: 6.609039e-02
+
+Event: GW241102_124058
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-06
+  Combined RMS GR:  7.072017e-01
+  Combined RMS PQG: 5.235601e-01
+  Delta: 1.836417e-01
+
+Event: GW241102_124058
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  7.240471e-01
+  Combined RMS PQG: 5.185735e-01
+  Delta: 2.054736e-01
+
+Event: GW241009_220455
+  Approximant: IMRPhenomD
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  7.043870e-01
+  Combined RMS PQG: 6.074423e-01
+  Delta: 9.694466e-02
+
+Event: GW241009_220455
+  Approximant: SEOBNRv4
+  beta2_best: 8.500000e-05
+  Combined RMS GR:  6.766613e-01
+  Combined RMS PQG: 6.080663e-01
+  Delta: 6.859497e-02
+
+Event: GW241009_084816
+  Approximant: IMRPhenomD
+  beta2_best: 2.000000e-05
+  Combined RMS GR:  6.389009e-01
+  Combined RMS PQG: 5.725095e-01
+  Delta: 6.639132e-02
+
+Event: GW241009_084816
+  Approximant: SEOBNRv4
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  5.898565e-01
+  Combined RMS PQG: 5.674182e-01
+  Delta: 2.243833e-02
+
+Event: GW241009_022835
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.423172e-01
+  Combined RMS PQG: 5.465790e-01
+  Delta: 1.957382e-01
+
+Event: GW241009_022835
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.165401e-01
+  Combined RMS PQG: 5.530123e-01
+  Delta: 1.635278e-01
+
+Event: GW241007_082943
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.804013e-01
+  Combined RMS PQG: 6.098525e-01
+  Delta: 7.054881e-02
+
+Event: GW241007_082943
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.341007e-01
+  Combined RMS PQG: 6.086935e-01
+  Delta: 1.254072e-01
+
+Event: GW241006_015333
+  Approximant: IMRPhenomD
+  beta2_best: -2.500000e-05
+  Combined RMS GR:  7.611405e-01
+  Combined RMS PQG: 6.624216e-01
+  Delta: 9.871887e-02
+
+Event: GW241006_015333
+  Approximant: SEOBNRv4
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  7.488970e-01
+  Combined RMS PQG: 6.665305e-01
+  Delta: 8.236647e-02
+
+Event: GW240930_234614
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.650646e-01
+  Combined RMS PQG: 5.643149e-01
+  Delta: 1.007496e-01
+
+Event: GW240930_234614
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.653943e-01
+  Combined RMS PQG: 5.665287e-01
+  Delta: 9.886560e-02
+
+Event: GW240930_035959
+  Approximant: IMRPhenomD
+  beta2_best: -6.000000e-05
+  Combined RMS GR:  6.574459e-01
+  Combined RMS PQG: 6.060823e-01
+  Delta: 5.136367e-02
+
+Event: GW240930_035959
+  Approximant: SEOBNRv4
+  beta2_best: -4.000000e-05
+  Combined RMS GR:  6.615465e-01
+  Combined RMS PQG: 6.092308e-01
+  Delta: 5.231570e-02
+
+Event: GW240925_005809
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.904654e-01
+  Combined RMS PQG: 7.239975e-01
+  Delta: 6.646788e-02
+
+Event: GW240925_005809
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.966667e-01
+  Combined RMS PQG: 7.197021e-01
+  Delta: 7.696459e-02
+
+Event: GW240924_000316
+  Approximant: IMRPhenomD
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  6.032982e-01
+  Combined RMS PQG: 5.734135e-01
+  Delta: 2.988463e-02
+
+Event: GW240924_000316
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.056224e-01
+  Combined RMS PQG: 5.746121e-01
+  Delta: 3.101034e-02
+
+Event: GW240923_204006
+  Approximant: IMRPhenomD
+  beta2_best: -5.500000e-05
+  Combined RMS GR:  7.797659e-01
+  Combined RMS PQG: 5.698200e-01
+  Delta: 2.099459e-01
+
+Event: GW240923_204006
+  Approximant: SEOBNRv4
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  7.753199e-01
+  Combined RMS PQG: 5.606127e-01
+  Delta: 2.147072e-01
+
+Event: GW240922_142106
+  Approximant: IMRPhenomD
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  6.568374e-01
+  Combined RMS PQG: 4.998440e-01
+  Delta: 1.569933e-01
+
+Event: GW240922_142106
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.757218e-01
+  Combined RMS PQG: 4.967097e-01
+  Delta: 7.901210e-02
+
+Event: GW240921_201835
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW240921_201835
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW240920_124024
+  Approximant: IMRPhenomD
+  beta2_best: 1.500000e-05
+  Combined RMS GR:  1.137293e+00
+  Combined RMS PQG: 1.036884e+00
+  Delta: 1.004089e-01
+
+Event: GW240920_124024
+  Approximant: SEOBNRv4
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  1.108000e+00
+  Combined RMS PQG: 1.039570e+00
+  Delta: 6.842959e-02
+
+Event: GW240920_073424
+  Approximant: IMRPhenomD
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  8.140458e-01
+  Combined RMS PQG: 6.796779e-01
+  Delta: 1.343679e-01
+
+Event: GW240920_073424
+  Approximant: SEOBNRv4
+  beta2_best: -8.500000e-05
+  Combined RMS GR:  8.148199e-01
+  Combined RMS PQG: 6.826568e-01
+  Delta: 1.321632e-01
+
+Event: GW240919_061559
+  Approximant: IMRPhenomD
+  beta2_best: 5.000000e-05
+  Combined RMS GR:  8.840497e-01
+  Combined RMS PQG: 5.575877e-01
+  Delta: 3.264619e-01
+
+Event: GW240919_061559
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.849526e-01
+  Combined RMS PQG: 5.484348e-01
+  Delta: 3.365178e-01
+
+Event: GW240916_184352
+  Approximant: IMRPhenomD
+  beta2_best: -5.500000e-05
+  Combined RMS GR:  5.926741e-01
+  Combined RMS PQG: 5.337659e-01
+  Delta: 5.890821e-02
+
+Event: GW240916_184352
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.845532e-01
+  Combined RMS PQG: 5.276009e-01
+  Delta: 5.695235e-02
+
+Event: GW240915_001357
+  Approximant: IMRPhenomD
+  beta2_best: -4.000000e-05
+  Combined RMS GR:  7.263519e-01
+  Combined RMS PQG: 6.901229e-01
+  Delta: 3.622894e-02
+
+Event: GW240915_001357
+  Approximant: SEOBNRv4
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  7.230351e-01
+  Combined RMS PQG: 6.907051e-01
+  Delta: 3.232991e-02
+
+Event: GW240910_103535
+  Approximant: IMRPhenomD
+  beta2_best: 4.000000e-05
+  Combined RMS GR:  5.310263e-01
+  Combined RMS PQG: 4.720614e-01
+  Delta: 5.896488e-02
+
+Event: GW240910_103535
+  Approximant: SEOBNRv4
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  5.163044e-01
+  Combined RMS PQG: 4.693712e-01
+  Delta: 4.693319e-02
+
+Event: GW240908_125134
+  Approximant: IMRPhenomD
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  6.731964e-01
+  Combined RMS PQG: 5.836560e-01
+  Delta: 8.954041e-02
+
+Event: GW240908_125134
+  Approximant: SEOBNRv4
+  beta2_best: -5.500000e-05
+  Combined RMS GR:  6.965914e-01
+  Combined RMS PQG: 5.817420e-01
+  Delta: 1.148493e-01
+
+Event: GW240908_082628
+  Approximant: IMRPhenomD
+  beta2_best: 4.000000e-05
+  Combined RMS GR:  5.986937e-01
+  Combined RMS PQG: 5.257322e-01
+  Delta: 7.296150e-02
+
+Event: GW240908_082628
+  Approximant: SEOBNRv4
+  beta2_best: 3.000000e-05
+  Combined RMS GR:  5.667384e-01
+  Combined RMS PQG: 5.246816e-01
+  Delta: 4.205675e-02
+
+Event: GW240907_153833
+  Approximant: IMRPhenomD
+  beta2_best: -8.000000e-05
+  Combined RMS GR:  6.662029e-01
+  Combined RMS PQG: 5.834351e-01
+  Delta: 8.276780e-02
+
+Event: GW240907_153833
+  Approximant: SEOBNRv4
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  6.662547e-01
+  Combined RMS PQG: 5.817328e-01
+  Delta: 8.452197e-02
+
+Event: GW240902_143306
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  6.975089e-01
+  Combined RMS PQG: 6.082354e-01
+  Delta: 8.927353e-02
+
+Event: GW240902_143306
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  7.080452e-01
+  Combined RMS PQG: 6.080762e-01
+  Delta: 9.996898e-02
+
+Event: GW240830_211120
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  6.385538e-01
+  Combined RMS PQG: 5.984720e-01
+  Delta: 4.008174e-02
+
+Event: GW240830_211120
+  Approximant: SEOBNRv4
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  6.252265e-01
+  Combined RMS PQG: 5.954679e-01
+  Delta: 2.975862e-02
+
+Event: GW240825_055146
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  5.618439e-01
+  Combined RMS PQG: 4.652397e-01
+  Delta: 9.660415e-02
+
+Event: GW240825_055146
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  4.938738e-01
+  Combined RMS PQG: 4.665459e-01
+  Delta: 2.732790e-02
+
+Event: GW240824_205609
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.490913e-01
+  Combined RMS PQG: 5.096168e-01
+  Delta: 3.947447e-02
+
+Event: GW240824_205609
+  Approximant: SEOBNRv4
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  5.553599e-01
+  Combined RMS PQG: 5.239773e-01
+  Delta: 3.138255e-02
+
+Event: GW240705_053215
+  Approximant: SEOBNRv4
+  beta2_best: 2.500000e-05
+  Combined RMS GR:  6.831414e-01
+  Combined RMS PQG: 6.516921e-01
+  Delta: 3.144930e-02
+
+Event: GW240630_101703
+  Approximant: IMRPhenomD
+  beta2_best: 4.000000e-05
+  Combined RMS GR:  7.133742e-01
+  Combined RMS PQG: 6.533430e-01
+  Delta: 6.003118e-02
+
+Event: GW240630_101703
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.815655e-01
+  Combined RMS PQG: 6.536974e-01
+  Delta: 2.786817e-02
+
+Event: GW240629_145256
+  Approximant: IMRPhenomD
+  beta2_best: 2.500000e-05
+  Combined RMS GR:  6.364927e-01
+  Combined RMS PQG: 6.248078e-01
+  Delta: 1.168492e-02
+
+Event: GW240629_145256
+  Approximant: SEOBNRv4
+  beta2_best: 2.500000e-05
+  Combined RMS GR:  7.294253e-01
+  Combined RMS PQG: 6.237902e-01
+  Delta: 1.056351e-01
+
+Event: GW240627_131622
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  5.779920e-01
+  Combined RMS PQG: 5.408475e-01
+  Delta: 3.714453e-02
+
+Event: GW240627_131622
+  Approximant: SEOBNRv4
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  5.773125e-01
+  Combined RMS PQG: 5.427273e-01
+  Delta: 3.458515e-02
+
+Event: GW240622_004008
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.147683e-01
+  Combined RMS PQG: 5.349436e-01
+  Delta: 1.798247e-01
+
+Event: GW240622_004008
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.404967e-01
+  Combined RMS PQG: 5.285286e-01
+  Delta: 1.119681e-01
+
+Event: GW240621_214041
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.081723e-01
+  Combined RMS PQG: 5.707831e-01
+  Delta: 3.738920e-02
+
+Event: GW240621_214041
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.196343e-01
+  Combined RMS PQG: 5.621290e-01
+  Delta: 5.750533e-02
+
+Event: GW240621_200935
+  Approximant: IMRPhenomD
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  4.831333e-01
+  Combined RMS PQG: 4.522757e-01
+  Delta: 3.085757e-02
+
+Event: GW240621_200935
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  5.723090e-01
+  Combined RMS PQG: 4.547253e-01
+  Delta: 1.175837e-01
+
+Event: GW240621_195059
+  Approximant: IMRPhenomD
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  7.394557e-01
+  Combined RMS PQG: 6.857797e-01
+  Delta: 5.367595e-02
+
+Event: GW240621_195059
+  Approximant: SEOBNRv4
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  7.413489e-01
+  Combined RMS PQG: 6.867219e-01
+  Delta: 5.462708e-02
+
+Event: GW240618_071627
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.132149e-01
+  Combined RMS PQG: 6.384366e-01
+  Delta: 7.477834e-02
+
+Event: GW240618_071627
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.545253e-01
+  Combined RMS PQG: 6.319890e-01
+  Delta: 2.253626e-02
+
+Event: GW240615_160735
+  Approximant: IMRPhenomD
+  beta2_best: -2.000000e-05
+  Combined RMS GR:  8.128293e-01
+  Combined RMS PQG: 6.895713e-01
+  Delta: 1.232580e-01
+
+Event: GW240615_160735
+  Approximant: SEOBNRv4
+  beta2_best: -2.500000e-05
+  Combined RMS GR:  7.294519e-01
+  Combined RMS PQG: 6.890667e-01
+  Delta: 4.038521e-02
+
+Event: GW240615_113620
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  9.664130e-01
+  Combined RMS PQG: 9.149069e-01
+  Delta: 5.150610e-02
+
+Event: GW240615_113620
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  9.604948e-01
+  Combined RMS PQG: 9.091921e-01
+  Delta: 5.130273e-02
+
+Event: GW240612_081540
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.867450e-01
+  Combined RMS PQG: 5.281824e-01
+  Delta: 5.856262e-02
+
+Event: GW240601_231004
+  Approximant: IMRPhenomD
+  beta2_best: 7.500000e-05
+  Combined RMS GR:  5.990107e-01
+  Combined RMS PQG: 5.202680e-01
+  Delta: 7.874267e-02
+
+Event: GW240601_231004
+  Approximant: SEOBNRv4
+  beta2_best: 7.500000e-05
+  Combined RMS GR:  6.061868e-01
+  Combined RMS PQG: 5.210336e-01
+  Delta: 8.515319e-02
+
+Event: GW240601_061200
+  Approximant: IMRPhenomD
+  beta2_best: 9.500000e-05
+  Combined RMS GR:  5.952024e-01
+  Combined RMS PQG: 5.438999e-01
+  Delta: 5.130258e-02
+
+Event: GW240601_061200
+  Approximant: SEOBNRv4
+  beta2_best: 7.500000e-05
+  Combined RMS GR:  5.880927e-01
+  Combined RMS PQG: 5.445442e-01
+  Delta: 4.354850e-02
+
+Event: GW240531_075248
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  7.062924e-01
+  Combined RMS PQG: 6.164652e-01
+  Delta: 8.982727e-02
+
+Event: GW240531_075248
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.767946e-01
+  Combined RMS PQG: 6.194536e-01
+  Delta: 5.734096e-02
+
+Event: GW240531_040326
+  Approximant: IMRPhenomD
+  beta2_best: -2.000000e-05
+  Combined RMS GR:  7.593156e-01
+  Combined RMS PQG: 6.062288e-01
+  Delta: 1.530868e-01
+
+Event: GW240531_040326
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  7.434743e-01
+  Combined RMS PQG: 6.059294e-01
+  Delta: 1.375449e-01
+
+Event: GW240530_012417
+  Approximant: IMRPhenomD
+  beta2_best: 8.000000e-05
+  Combined RMS GR:  9.055084e-01
+  Combined RMS PQG: 7.618444e-01
+  Delta: 1.436640e-01
+
+Event: GW240530_012417
+  Approximant: SEOBNRv4
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  8.616985e-01
+  Combined RMS PQG: 7.653845e-01
+  Delta: 9.631401e-02
+
+Event: GW240527_230910
+  Approximant: IMRPhenomD
+  beta2_best: -7.000000e-05
+  Combined RMS GR:  7.292809e-01
+  Combined RMS PQG: 6.289197e-01
+  Delta: 1.003612e-01
+
+Event: GW240527_230910
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  7.331874e-01
+  Combined RMS PQG: 6.371462e-01
+  Delta: 9.604124e-02
+
+Event: GW240527_183429
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.978851e-01
+  Combined RMS PQG: 6.149578e-01
+  Delta: 8.292730e-02
+
+Event: GW240527_183429
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.649897e-01
+  Combined RMS PQG: 6.158659e-01
+  Delta: 4.912380e-02
+
+Event: GW240526_093944
+  Approximant: IMRPhenomD
+  beta2_best: 5.500000e-05
+  Combined RMS GR:  5.265061e-01
+  Combined RMS PQG: 4.744982e-01
+  Delta: 5.200795e-02
+
+Event: GW240526_093944
+  Approximant: SEOBNRv4
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  5.114778e-01
+  Combined RMS PQG: 4.742494e-01
+  Delta: 3.722842e-02
+
+Event: GW240525_031210
+  Approximant: IMRPhenomD
+  beta2_best: 5.000000e-05
+  Combined RMS GR:  6.885426e-01
+  Combined RMS PQG: 6.010215e-01
+  Delta: 8.752105e-02
+
+Event: GW240525_031210
+  Approximant: SEOBNRv4
+  beta2_best: 6.000000e-05
+  Combined RMS GR:  6.911606e-01
+  Combined RMS PQG: 6.059148e-01
+  Delta: 8.524588e-02
+
+Event: GW240520_213616
+  Approximant: IMRPhenomD
+  beta2_best: 8.500000e-05
+  Combined RMS GR:  5.227446e-01
+  Combined RMS PQG: 4.942104e-01
+  Delta: 2.853423e-02
+
+Event: GW240520_213616
+  Approximant: SEOBNRv4
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  5.279858e-01
+  Combined RMS PQG: 4.942811e-01
+  Delta: 3.370469e-02
+
+Event: GW240519_012815
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW240519_012815
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW240515_005301
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.478716e-01
+  Combined RMS PQG: 5.645838e-01
+  Delta: 8.328774e-02
+
+Event: GW240515_005301
+  Approximant: SEOBNRv4
+  beta2_best: 6.000000e-05
+  Combined RMS GR:  6.361194e-01
+  Combined RMS PQG: 5.681289e-01
+  Delta: 6.799053e-02
+
+Event: GW240514_121713
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.386966e-01
+  Combined RMS PQG: 6.338171e-01
+  Delta: 1.048795e-01
+
+Event: GW240514_121713
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.773165e-01
+  Combined RMS PQG: 6.230840e-01
+  Delta: 5.423247e-02
+
+Event: GW240513_183302
+  Approximant: IMRPhenomD
+  beta2_best: 4.500000e-05
+  Combined RMS GR:  8.021425e-01
+  Combined RMS PQG: 5.915409e-01
+  Delta: 2.106016e-01
+
+Event: GW240513_183302
+  Approximant: SEOBNRv4
+  beta2_best: 5.000000e-05
+  Combined RMS GR:  7.982137e-01
+  Combined RMS PQG: 5.928631e-01
+  Delta: 2.053506e-01
+
+Event: GW240512_024139
+  Approximant: IMRPhenomD
+  beta2_best: -8.000000e-05
+  Combined RMS GR:  5.153350e-01
+  Combined RMS PQG: 4.589390e-01
+  Delta: 5.639599e-02
+
+Event: GW240512_024139
+  Approximant: SEOBNRv4
+  beta2_best: -6.500000e-05
+  Combined RMS GR:  5.851006e-01
+  Combined RMS PQG: 4.578507e-01
+  Delta: 1.272500e-01
+
+Event: GW240511_031507
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.701168e-01
+  Combined RMS PQG: 6.999910e-01
+  Delta: 7.012581e-02
+
+Event: GW240511_031507
+  Approximant: SEOBNRv4
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  8.275496e-01
+  Combined RMS PQG: 6.910184e-01
+  Delta: 1.365311e-01
+
+Event: GW240507_041632
+  Approximant: IMRPhenomD
+  beta2_best: -8.000000e-05
+  Combined RMS GR:  6.987999e-01
+  Combined RMS PQG: 6.020109e-01
+  Delta: 9.678898e-02
+
+Event: GW240507_041632
+  Approximant: SEOBNRv4
+  beta2_best: -8.000000e-05
+  Combined RMS GR:  6.717431e-01
+  Combined RMS PQG: 6.018582e-01
+  Delta: 6.988490e-02
+
+Event: GW240505_133552
+  Approximant: IMRPhenomD
+  beta2_best: 4.500000e-05
+  Combined RMS GR:  5.933206e-01
+  Combined RMS PQG: 5.519473e-01
+  Delta: 4.137332e-02
+
+Event: GW240505_133552
+  Approximant: SEOBNRv4
+  beta2_best: 5.000000e-05
+  Combined RMS GR:  6.777266e-01
+  Combined RMS PQG: 5.494629e-01
+  Delta: 1.282637e-01
+
+Event: GW240501_033534
+  Approximant: IMRPhenomD
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  5.710578e-01
+  Combined RMS PQG: 5.081210e-01
+  Delta: 6.293686e-02
+
+Event: GW240501_033534
+  Approximant: SEOBNRv4
+  beta2_best: -6.500000e-05
+  Combined RMS GR:  5.715737e-01
+  Combined RMS PQG: 5.088357e-01
+  Delta: 6.273799e-02
+
+Event: GW240426_031451
+  Approximant: IMRPhenomD
+  beta2_best: 5.500000e-05
+  Combined RMS GR:  6.571504e-01
+  Combined RMS PQG: 5.420276e-01
+  Delta: 1.151228e-01
+
+Event: GW240426_031451
+  Approximant: SEOBNRv4
+  beta2_best: 7.500000e-05
+  Combined RMS GR:  6.908857e-01
+  Combined RMS PQG: 5.418058e-01
+  Delta: 1.490800e-01
+
+Event: GW240414_054515
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW240414_054515
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW240413_022019
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.521235e-01
+  Combined RMS PQG: 5.294467e-01
+  Delta: 2.267674e-02
+
+Event: GW240413_022019
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.605622e-01
+  Combined RMS PQG: 5.283484e-01
+  Delta: 3.221380e-02
+
+Event: GW240107_013215
+  Approximant: IMRPhenomD
+  beta2_best: 5.000000e-05
+  Combined RMS GR:  6.280192e-01
+  Combined RMS PQG: 5.889335e-01
+  Delta: 3.908576e-02
+
+Event: GW240107_013215
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.276399e-01
+  Combined RMS PQG: 5.871839e-01
+  Delta: 4.045604e-02
+
+Event: GW240104_164932
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW240104_164932
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW231231_154016
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW231231_154016
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW231230_170116
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.238905e-01
+  Combined RMS PQG: 5.004554e-01
+  Delta: 1.234352e-01
+
+Event: GW231230_170116
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.538351e-01
+  Combined RMS PQG: 4.961195e-01
+  Delta: 1.577156e-01
+
+Event: GW231226_101520
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  1.115068e+00
+  Combined RMS PQG: 8.198972e-01
+  Delta: 2.951704e-01
+
+Event: GW231226_101520
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  1.158773e+00
+  Combined RMS PQG: 8.071522e-01
+  Delta: 3.516209e-01
+
+Event: GW231224_024321
+  Approximant: IMRPhenomD
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  4.895372e-01
+  Combined RMS PQG: 4.499799e-01
+  Delta: 3.955735e-02
+
+Event: GW231224_024321
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  5.298457e-01
+  Combined RMS PQG: 4.497954e-01
+  Delta: 8.005035e-02
+
+Event: GW231223_202619
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW231223_202619
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW231223_075055
+  Approximant: IMRPhenomD
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  6.186587e-01
+  Combined RMS PQG: 5.479869e-01
+  Delta: 7.067177e-02
+
+Event: GW231223_075055
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  6.385113e-01
+  Combined RMS PQG: 5.467943e-01
+  Delta: 9.171700e-02
+
+Event: GW231223_032836
+  Approximant: IMRPhenomD
+  beta2_best: -2.000000e-05
+  Combined RMS GR:  6.695600e-01
+  Combined RMS PQG: 5.868848e-01
+  Delta: 8.267516e-02
+
+Event: GW231223_032836
+  Approximant: SEOBNRv4
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  6.380755e-01
+  Combined RMS PQG: 5.914402e-01
+  Delta: 4.663538e-02
+
+Event: GW231221_135041
+  Approximant: SEOBNRv4
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  7.216162e-01
+  Combined RMS PQG: 6.062856e-01
+  Delta: 1.153306e-01
+
+Event: GW231213_111417
+  Approximant: IMRPhenomD
+  beta2_best: -1.500000e-05
+  Combined RMS GR:  6.315762e-01
+  Combined RMS PQG: 6.082142e-01
+  Delta: 2.336203e-02
+
+Event: GW231213_111417
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-06
+  Combined RMS GR:  6.862356e-01
+  Combined RMS PQG: 6.084948e-01
+  Delta: 7.774083e-02
+
+Event: GW231206_233901
+  Approximant: IMRPhenomD
+  beta2_best: 6.500000e-05
+  Combined RMS GR:  7.989669e-01
+  Combined RMS PQG: 6.604033e-01
+  Delta: 1.385636e-01
+
+Event: GW231206_233901
+  Approximant: SEOBNRv4
+  beta2_best: 6.000000e-05
+  Combined RMS GR:  8.343630e-01
+  Combined RMS PQG: 6.617953e-01
+  Delta: 1.725677e-01
+
+Event: GW231206_233134
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.646602e-01
+  Combined RMS PQG: 5.749848e-01
+  Delta: 8.967534e-02
+
+Event: GW231206_233134
+  Approximant: SEOBNRv4
+  beta2_best: -7.000000e-05
+  Combined RMS GR:  6.174463e-01
+  Combined RMS PQG: 5.702667e-01
+  Delta: 4.717961e-02
+
+Event: GW231129_081745
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-06
+  Combined RMS GR:  5.717236e-01
+  Combined RMS PQG: 4.915197e-01
+  Delta: 8.020388e-02
+
+Event: GW231129_081745
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  5.632318e-01
+  Combined RMS PQG: 4.911894e-01
+  Delta: 7.204240e-02
+
+Event: GW231127_165300
+  Approximant: IMRPhenomD
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  7.117757e-01
+  Combined RMS PQG: 5.933275e-01
+  Delta: 1.184482e-01
+
+Event: GW231127_165300
+  Approximant: SEOBNRv4
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  6.687945e-01
+  Combined RMS PQG: 5.938066e-01
+  Delta: 7.498784e-02
+
+Event: GW231123_135430
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.480464e-01
+  Combined RMS PQG: 7.221438e-01
+  Delta: 2.590262e-02
+
+Event: GW231123_135430
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.500245e-01
+  Combined RMS PQG: 7.088587e-01
+  Delta: 4.116587e-02
+
+Event: GW231119_075248
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.402132e-01
+  Combined RMS PQG: 4.727330e-01
+  Delta: 1.674802e-01
+
+Event: GW231119_075248
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.819980e-01
+  Combined RMS PQG: 4.484017e-01
+  Delta: 1.335963e-01
+
+Event: GW231118_090602
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.834858e-01
+  Combined RMS PQG: 5.088541e-01
+  Delta: 7.463167e-02
+
+Event: GW231118_090602
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.967783e-01
+  Combined RMS PQG: 5.056365e-01
+  Delta: 9.114181e-02
+
+Event: GW231118_071402
+  Approximant: IMRPhenomD
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  5.102831e-01
+  Combined RMS PQG: 4.624921e-01
+  Delta: 4.779100e-02
+
+Event: GW231118_071402
+  Approximant: SEOBNRv4
+  beta2_best: -6.500000e-05
+  Combined RMS GR:  5.006731e-01
+  Combined RMS PQG: 4.760099e-01
+  Delta: 2.466320e-02
+
+Event: GW231118_005626
+  Approximant: IMRPhenomD
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  5.139014e-01
+  Combined RMS PQG: 4.982508e-01
+  Delta: 1.565058e-02
+
+Event: GW231118_005626
+  Approximant: SEOBNRv4
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  5.180950e-01
+  Combined RMS PQG: 4.972712e-01
+  Delta: 2.082379e-02
+
+Event: GW231114_043211
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.388985e-01
+  Combined RMS PQG: 5.108946e-01
+  Delta: 2.800387e-02
+
+Event: GW231114_043211
+  Approximant: SEOBNRv4
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  5.672170e-01
+  Combined RMS PQG: 5.186290e-01
+  Delta: 4.858806e-02
+
+Event: GW231113_200417
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.244563e-01
+  Combined RMS PQG: 5.435896e-01
+  Delta: 8.086676e-02
+
+Event: GW231113_200417
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.367865e-01
+  Combined RMS PQG: 5.358263e-01
+  Delta: 1.009602e-01
+
+Event: GW231113_150041
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.379877e-01
+  Combined RMS PQG: 5.234943e-01
+  Delta: 1.144933e-01
+
+Event: GW231113_150041
+  Approximant: SEOBNRv4
+  beta2_best: -8.000000e-05
+  Combined RMS GR:  6.493408e-01
+  Combined RMS PQG: 5.350034e-01
+  Delta: 1.143373e-01
+
+Event: GW231113_122623
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.190799e-01
+  Combined RMS PQG: 5.960906e-01
+  Delta: 1.229893e-01
+
+Event: GW231113_122623
+  Approximant: SEOBNRv4
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  7.457504e-01
+  Combined RMS PQG: 5.954434e-01
+  Delta: 1.503070e-01
+
+Event: GW231110_040320
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.697785e-01
+  Combined RMS PQG: 5.953435e-01
+  Delta: 7.443494e-02
+
+Event: GW231110_040320
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.383872e-01
+  Combined RMS PQG: 6.007433e-01
+  Delta: 3.764389e-02
+
+Event: GW231108_125142
+  Approximant: IMRPhenomD
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  7.079490e-01
+  Combined RMS PQG: 6.044991e-01
+  Delta: 1.034499e-01
+
+Event: GW231108_125142
+  Approximant: SEOBNRv4
+  beta2_best: 7.500000e-05
+  Combined RMS GR:  6.564714e-01
+  Combined RMS PQG: 6.057234e-01
+  Delta: 5.074804e-02
+
+Event: GW231104_133418
+  Approximant: IMRPhenomD
+  beta2_best: 5.500000e-05
+  Combined RMS GR:  6.623783e-01
+  Combined RMS PQG: 5.293953e-01
+  Delta: 1.329830e-01
+
+Event: GW231104_133418
+  Approximant: SEOBNRv4
+  beta2_best: 6.500000e-05
+  Combined RMS GR:  6.518533e-01
+  Combined RMS PQG: 5.274058e-01
+  Delta: 1.244475e-01
+
+Event: GW231102_071736
+  Approximant: IMRPhenomD
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  8.002506e-01
+  Combined RMS PQG: 7.122003e-01
+  Delta: 8.805034e-02
+
+Event: GW231102_071736
+  Approximant: SEOBNRv4
+  beta2_best: -7.000000e-05
+  Combined RMS GR:  7.944468e-01
+  Combined RMS PQG: 7.082732e-01
+  Delta: 8.617364e-02
+
+Event: GW231028_153006
+  Approximant: IMRPhenomD
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  9.525996e-01
+  Combined RMS PQG: 9.265580e-01
+  Delta: 2.604163e-02
+
+Event: GW231028_153006
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  9.658467e-01
+  Combined RMS PQG: 9.415167e-01
+  Delta: 2.433000e-02
+
+Event: GW231026_130704
+  Approximant: SEOBNRv4
+  beta2_best: 8.500000e-05
+  Combined RMS GR:  5.817953e-01
+  Combined RMS PQG: 5.165816e-01
+  Delta: 6.521368e-02
+
+Event: GW231020_142947
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.929949e-01
+  Combined RMS PQG: 4.657501e-01
+  Delta: 1.272448e-01
+
+Event: GW231020_142947
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.297876e-01
+  Combined RMS PQG: 4.660779e-01
+  Delta: 6.370971e-02
+
+Event: GW231018_233037
+  Approximant: IMRPhenomD
+  beta2_best: -7.000000e-05
+  Combined RMS GR:  8.717296e-01
+  Combined RMS PQG: 8.355921e-01
+  Delta: 3.613751e-02
+
+Event: GW231018_233037
+  Approximant: SEOBNRv4
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  8.714604e-01
+  Combined RMS PQG: 8.315896e-01
+  Delta: 3.987080e-02
+
+Event: GW231014_040532
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.306440e-01
+  Combined RMS PQG: 5.532122e-01
+  Delta: 1.774318e-01
+
+Event: GW231014_040532
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.074118e-01
+  Combined RMS PQG: 5.545087e-01
+  Delta: 5.290305e-02
+
+Event: GW231008_142521
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  6.609311e-01
+  Combined RMS PQG: 5.561257e-01
+  Delta: 1.048054e-01
+
+Event: GW231008_142521
+  Approximant: SEOBNRv4
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  6.626316e-01
+  Combined RMS PQG: 5.507405e-01
+  Delta: 1.118911e-01
+
+Event: GW231005_091549
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  5.965624e-01
+  Combined RMS PQG: 5.183703e-01
+  Delta: 7.819207e-02
+
+Event: GW231005_091549
+  Approximant: SEOBNRv4
+  beta2_best: 2.000000e-05
+  Combined RMS GR:  6.228957e-01
+  Combined RMS PQG: 5.230527e-01
+  Delta: 9.984296e-02
+
+Event: GW231005_021030
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.286093e-01
+  Combined RMS PQG: 5.568915e-01
+  Delta: 1.717178e-01
+
+Event: GW231005_021030
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.449557e-01
+  Combined RMS PQG: 5.566575e-01
+  Delta: 1.882982e-01
+
+Event: GW231004_232346
+  Approximant: IMRPhenomD
+  beta2_best: -8.000000e-05
+  Combined RMS GR:  5.840656e-01
+  Combined RMS PQG: 5.684563e-01
+  Delta: 1.560936e-02
+
+Event: GW231004_232346
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.962871e-01
+  Combined RMS PQG: 5.722619e-01
+  Delta: 2.240253e-01
+
+Event: GW231001_140220
+  Approximant: IMRPhenomD
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  6.028287e-01
+  Combined RMS PQG: 5.567424e-01
+  Delta: 4.608624e-02
+
+Event: GW231001_140220
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.518659e-01
+  Combined RMS PQG: 5.533439e-01
+  Delta: 9.852198e-02
+
+Event: GW230930_110730
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.811922e-01
+  Combined RMS PQG: 5.773476e-01
+  Delta: 1.038447e-01
+
+Event: GW230930_110730
+  Approximant: SEOBNRv4
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  5.982471e-01
+  Combined RMS PQG: 5.763385e-01
+  Delta: 2.190860e-02
+
+Event: GW230928_215827
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.790177e-01
+  Combined RMS PQG: 5.479520e-01
+  Delta: 3.106577e-02
+
+Event: GW230928_215827
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.027318e-01
+  Combined RMS PQG: 5.618005e-01
+  Delta: 4.093136e-02
+
+Event: GW230927_153832
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.597151e-01
+  Combined RMS PQG: 7.959495e-01
+  Delta: 6.376558e-02
+
+Event: GW230927_153832
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.458446e-01
+  Combined RMS PQG: 7.895071e-01
+  Delta: 5.633752e-02
+
+Event: GW230927_043729
+  Approximant: IMRPhenomD
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  7.097953e-01
+  Combined RMS PQG: 6.583003e-01
+  Delta: 5.149508e-02
+
+Event: GW230927_043729
+  Approximant: SEOBNRv4
+  beta2_best: 9.500000e-05
+  Combined RMS GR:  7.070024e-01
+  Combined RMS PQG: 6.583992e-01
+  Delta: 4.860324e-02
+
+Event: GW230924_124453
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.394392e-01
+  Combined RMS PQG: 5.641995e-01
+  Delta: 7.523973e-02
+
+Event: GW230924_124453
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.594315e-01
+  Combined RMS PQG: 5.656913e-01
+  Delta: 9.374022e-02
+
+Event: GW230922_040658
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.828691e-01
+  Combined RMS PQG: 5.253293e-01
+  Delta: 1.575398e-01
+
+Event: GW230922_040658
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.990702e-01
+  Combined RMS PQG: 5.747130e-01
+  Delta: 1.243572e-01
+
+Event: GW230922_020344
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.783975e-01
+  Combined RMS PQG: 6.104853e-01
+  Delta: 1.679122e-01
+
+Event: GW230922_020344
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.233918e-01
+  Combined RMS PQG: 6.081305e-01
+  Delta: 1.152613e-01
+
+Event: GW230920_071124
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.227597e-01
+  Combined RMS PQG: 5.903102e-01
+  Delta: 1.324495e-01
+
+Event: GW230920_071124
+  Approximant: SEOBNRv4
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  7.163321e-01
+  Combined RMS PQG: 5.891235e-01
+  Delta: 1.272086e-01
+
+Event: GW230919_215712
+  Approximant: IMRPhenomD
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  8.125532e-01
+  Combined RMS PQG: 6.962107e-01
+  Delta: 1.163425e-01
+
+Event: GW230919_215712
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.300856e-01
+  Combined RMS PQG: 6.936720e-01
+  Delta: 3.641366e-02
+
+Event: GW230914_111401
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.281556e-01
+  Combined RMS PQG: 6.855098e-01
+  Delta: 4.264574e-02
+
+Event: GW230914_111401
+  Approximant: SEOBNRv4
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  7.266912e-01
+  Combined RMS PQG: 6.871482e-01
+  Delta: 3.954300e-02
+
+Event: GW230911_195324
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW230911_195324
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW230904_051013
+  Approximant: IMRPhenomD
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  8.313157e-01
+  Combined RMS PQG: 7.564200e-01
+  Delta: 7.489568e-02
+
+Event: GW230904_051013
+  Approximant: SEOBNRv4
+  beta2_best: -8.500000e-05
+  Combined RMS GR:  8.628395e-01
+  Combined RMS PQG: 7.553331e-01
+  Delta: 1.075063e-01
+
+Event: GW230831_015414
+  Approximant: IMRPhenomD
+  beta2_best: -7.000000e-05
+  Combined RMS GR:  6.422028e-01
+  Combined RMS PQG: 5.715762e-01
+  Delta: 7.062659e-02
+
+Event: GW230831_015414
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  6.889077e-01
+  Combined RMS PQG: 5.742540e-01
+  Delta: 1.146537e-01
+
+Event: GW230825_041334
+  Approximant: IMRPhenomD
+  beta2_best: 6.000000e-05
+  Combined RMS GR:  5.662568e-01
+  Combined RMS PQG: 5.153960e-01
+  Delta: 5.086080e-02
+
+Event: GW230825_041334
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.810884e-01
+  Combined RMS PQG: 5.121812e-01
+  Delta: 6.890716e-02
+
+Event: GW230824_033047
+  Approximant: IMRPhenomD
+  beta2_best: -6.000000e-05
+  Combined RMS GR:  5.073756e-01
+  Combined RMS PQG: 4.773078e-01
+  Delta: 3.006777e-02
+
+Event: GW230824_033047
+  Approximant: SEOBNRv4
+  beta2_best: -2.000000e-05
+  Combined RMS GR:  6.057581e-01
+  Combined RMS PQG: 4.733864e-01
+  Delta: 1.323717e-01
+
+Event: GW230820_212515
+  Approximant: IMRPhenomD
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  6.342841e-01
+  Combined RMS PQG: 5.317579e-01
+  Delta: 1.025262e-01
+
+Event: GW230820_212515
+  Approximant: SEOBNRv4
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  6.193610e-01
+  Combined RMS PQG: 5.325790e-01
+  Delta: 8.678200e-02
+
+Event: GW230819_171910
+  Approximant: IMRPhenomD
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  6.006103e-01
+  Combined RMS PQG: 5.687713e-01
+  Delta: 3.183896e-02
+
+Event: GW230819_171910
+  Approximant: SEOBNRv4
+  beta2_best: -2.500000e-05
+  Combined RMS GR:  6.101066e-01
+  Combined RMS PQG: 5.784773e-01
+  Delta: 3.162932e-02
+
+Event: GW230814_230901
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW230814_230901
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW230814_061920
+  Approximant: IMRPhenomD
+  beta2_best: 8.500000e-05
+  Combined RMS GR:  6.740197e-01
+  Combined RMS PQG: 5.799542e-01
+  Delta: 9.406556e-02
+
+Event: GW230814_061920
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.313957e-01
+  Combined RMS PQG: 5.850989e-01
+  Delta: 4.629673e-02
+
+Event: GW230811_032116
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  8.359062e-01
+  Combined RMS PQG: 6.959384e-01
+  Delta: 1.399678e-01
+
+Event: GW230811_032116
+  Approximant: SEOBNRv4
+  beta2_best: -8.000000e-05
+  Combined RMS GR:  8.442996e-01
+  Combined RMS PQG: 6.860299e-01
+  Delta: 1.582697e-01
+
+Event: GW230806_204041
+  Approximant: IMRPhenomD
+  beta2_best: 9.500000e-05
+  Combined RMS GR:  7.448418e-01
+  Combined RMS PQG: 6.888768e-01
+  Delta: 5.596492e-02
+
+Event: GW230806_204041
+  Approximant: SEOBNRv4
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  7.620198e-01
+  Combined RMS PQG: 6.906392e-01
+  Delta: 7.138058e-02
+
+Event: GW230805_034249
+  Approximant: IMRPhenomD
+  beta2_best: 9.500000e-05
+  Combined RMS GR:  7.910627e-01
+  Combined RMS PQG: 6.742892e-01
+  Delta: 1.167735e-01
+
+Event: GW230805_034249
+  Approximant: SEOBNRv4
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  7.321059e-01
+  Combined RMS PQG: 6.748266e-01
+  Delta: 5.727934e-02
+
+Event: GW230803_033412
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.340989e-01
+  Combined RMS PQG: 5.696644e-01
+  Delta: 6.443453e-02
+
+Event: GW230803_033412
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.618409e-01
+  Combined RMS PQG: 5.719452e-01
+  Delta: 8.989574e-02
+
+Event: GW230731_215307
+  Approximant: IMRPhenomD
+  beta2_best: 4.000000e-05
+  Combined RMS GR:  5.954317e-01
+  Combined RMS PQG: 5.448702e-01
+  Delta: 5.056151e-02
+
+Event: GW230731_215307
+  Approximant: SEOBNRv4
+  beta2_best: 4.000000e-05
+  Combined RMS GR:  6.670090e-01
+  Combined RMS PQG: 5.440547e-01
+  Delta: 1.229543e-01
+
+Event: GW230729_082317
+  Approximant: IMRPhenomD
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  5.559890e-01
+  Combined RMS PQG: 5.425102e-01
+  Delta: 1.347879e-02
+
+Event: GW230729_082317
+  Approximant: SEOBNRv4
+  beta2_best: 1.500000e-05
+  Combined RMS GR:  6.319528e-01
+  Combined RMS PQG: 5.410640e-01
+  Delta: 9.088878e-02
+
+Event: GW230726_002940
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW230726_002940
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW230723_101834
+  Approximant: IMRPhenomD
+  beta2_best: 2.000000e-05
+  Combined RMS GR:  6.860768e-01
+  Combined RMS PQG: 5.782748e-01
+  Delta: 1.078020e-01
+
+Event: GW230723_101834
+  Approximant: SEOBNRv4
+  beta2_best: 1.500000e-05
+  Combined RMS GR:  6.449140e-01
+  Combined RMS PQG: 5.762152e-01
+  Delta: 6.869878e-02
+
+Event: GW230712_090405
+  Approximant: IMRPhenomD
+  beta2_best: -2.000000e-05
+  Combined RMS GR:  7.449615e-01
+  Combined RMS PQG: 6.383473e-01
+  Delta: 1.066142e-01
+
+Event: GW230712_090405
+  Approximant: SEOBNRv4
+  beta2_best: 1.500000e-05
+  Combined RMS GR:  7.927530e-01
+  Combined RMS PQG: 6.272598e-01
+  Delta: 1.654933e-01
+
+Event: GW230709_122727
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.934306e-01
+  Combined RMS PQG: 7.177891e-01
+  Delta: 7.564155e-02
+
+Event: GW230709_122727
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  8.666734e-01
+  Combined RMS PQG: 7.094082e-01
+  Delta: 1.572652e-01
+
+Event: GW230708_230935
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.783233e-01
+  Combined RMS PQG: 6.288725e-01
+  Delta: 1.494508e-01
+
+Event: GW230708_230935
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.806982e-01
+  Combined RMS PQG: 6.212510e-01
+  Delta: 5.944726e-02
+
+Event: GW230708_053705
+  Approximant: IMRPhenomD
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  6.891067e-01
+  Combined RMS PQG: 6.178453e-01
+  Delta: 7.126141e-02
+
+Event: GW230708_053705
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.820256e-01
+  Combined RMS PQG: 6.106892e-01
+  Delta: 7.133643e-02
+
+Event: GW230707_124047
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.514857e-01
+  Combined RMS PQG: 5.231965e-01
+  Delta: 2.828921e-02
+
+Event: GW230707_124047
+  Approximant: SEOBNRv4
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  5.769061e-01
+  Combined RMS PQG: 5.314521e-01
+  Delta: 4.545394e-02
+
+Event: GW230706_104333
+  Approximant: IMRPhenomD
+  beta2_best: -4.000000e-05
+  Combined RMS GR:  6.128567e-01
+  Combined RMS PQG: 4.945155e-01
+  Delta: 1.183412e-01
+
+Event: GW230706_104333
+  Approximant: SEOBNRv4
+  beta2_best: -2.500000e-05
+  Combined RMS GR:  5.292798e-01
+  Combined RMS PQG: 4.910630e-01
+  Delta: 3.821672e-02
+
+Event: GW230704_212616
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.932689e-01
+  Combined RMS PQG: 5.315817e-01
+  Delta: 6.168727e-02
+
+Event: GW230704_021211
+  Approximant: IMRPhenomD
+  beta2_best: 2.500000e-05
+  Combined RMS GR:  7.359649e-01
+  Combined RMS PQG: 6.362590e-01
+  Delta: 9.970593e-02
+
+Event: GW230704_021211
+  Approximant: SEOBNRv4
+  beta2_best: 5.000000e-06
+  Combined RMS GR:  8.242110e-01
+  Combined RMS PQG: 6.411152e-01
+  Delta: 1.830958e-01
+
+Event: GW230702_185453
+  Approximant: IMRPhenomD
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  4.949515e-01
+  Combined RMS PQG: 4.714345e-01
+  Delta: 2.351702e-02
+
+Event: GW230702_185453
+  Approximant: SEOBNRv4
+  beta2_best: 2.500000e-05
+  Combined RMS GR:  5.569630e-01
+  Combined RMS PQG: 4.704390e-01
+  Delta: 8.652393e-02
+
+Event: GW230630_234532
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.236363e-01
+  Combined RMS PQG: 4.903187e-01
+  Delta: 3.331762e-02
+
+Event: GW230630_234532
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.327126e-01
+  Combined RMS PQG: 4.888537e-01
+  Delta: 4.385884e-02
+
+Event: GW230630_125806
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.915276e-01
+  Combined RMS PQG: 5.115620e-01
+  Delta: 1.799655e-01
+
+Event: GW230630_125806
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.348819e-01
+  Combined RMS PQG: 5.083379e-01
+  Delta: 1.265440e-01
+
+Event: GW230628_231200
+  Approximant: IMRPhenomD
+  beta2_best: 5.000000e-05
+  Combined RMS GR:  8.217584e-01
+  Combined RMS PQG: 7.541988e-01
+  Delta: 6.755960e-02
+
+Event: GW230628_231200
+  Approximant: SEOBNRv4
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  8.481278e-01
+  Combined RMS PQG: 7.583042e-01
+  Delta: 8.982354e-02
+
+Event: GW230627_015337
+  Approximant: SEOBNRv4
+  beta2_best: -4.000000e-05
+  Combined RMS GR:  7.426448e-01
+  Combined RMS PQG: 6.805454e-01
+  Delta: 6.209932e-02
+
+Event: GW230624_113103
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-06
+  Combined RMS GR:  6.830446e-01
+  Combined RMS PQG: 5.343456e-01
+  Delta: 1.486991e-01
+
+Event: GW230624_113103
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  6.226730e-01
+  Combined RMS PQG: 5.328698e-01
+  Delta: 8.980320e-02
+
+Event: GW230609_064958
+  Approximant: IMRPhenomD
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  6.173004e-01
+  Combined RMS PQG: 5.092574e-01
+  Delta: 1.080430e-01
+
+Event: GW230609_064958
+  Approximant: SEOBNRv4
+  beta2_best: 7.500000e-05
+  Combined RMS GR:  6.239327e-01
+  Combined RMS PQG: 5.122275e-01
+  Delta: 1.117052e-01
+
+Event: GW230608_205047
+  Approximant: IMRPhenomD
+  beta2_best: -6.500000e-05
+  Combined RMS GR:  7.331859e-01
+  Combined RMS PQG: 6.356813e-01
+  Delta: 9.750459e-02
+
+Event: GW230608_205047
+  Approximant: SEOBNRv4
+  beta2_best: -6.000000e-05
+  Combined RMS GR:  7.403392e-01
+  Combined RMS PQG: 6.332193e-01
+  Delta: 1.071199e-01
+
+Event: GW230606_004305
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.597201e-01
+  Combined RMS PQG: 6.594358e-01
+  Delta: 2.002843e-01
+
+Event: GW230606_004305
+  Approximant: SEOBNRv4
+  beta2_best: 9.500000e-05
+  Combined RMS GR:  7.605692e-01
+  Combined RMS PQG: 6.534478e-01
+  Delta: 1.071214e-01
+
+Event: GW230605_065343
+  Approximant: IMRPhenomD
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  8.032585e-01
+  Combined RMS PQG: 6.073698e-01
+  Delta: 1.958887e-01
+
+Event: GW230605_065343
+  Approximant: SEOBNRv4
+  beta2_best: 5.000000e-06
+  Combined RMS GR:  6.381528e-01
+  Combined RMS PQG: 5.997371e-01
+  Delta: 3.841566e-02
+
+Event: GW230601_224134
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.255841e-01
+  Combined RMS PQG: 4.656715e-01
+  Delta: 2.599126e-01
+
+Event: GW230601_224134
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.305333e-01
+  Combined RMS PQG: 4.614484e-01
+  Delta: 2.690849e-01
+
+Event: GW230518_125908
+  Approximant: IMRPhenomD
+  beta2_best: 7.500000e-05
+  Combined RMS GR:  4.972897e-01
+  Combined RMS PQG: 4.536417e-01
+  Delta: 4.364796e-02
+
+Event: GW230518_125908
+  Approximant: SEOBNRv4
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  5.047868e-01
+  Combined RMS PQG: 4.545323e-01
+  Delta: 5.025442e-02
+
+Event: GW200322_091133
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.958635e-01
+  Combined RMS PQG: 5.571280e-01
+  Delta: 3.873546e-02
+
+Event: GW200322_091133
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.990530e-01
+  Combined RMS PQG: 5.568261e-01
+  Delta: 4.222690e-02
+
+Event: GW200316_215756
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.679413e-01
+  Combined RMS PQG: 5.411058e-01
+  Delta: 2.683558e-02
+
+Event: GW200316_215756
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.524262e-01
+  Combined RMS PQG: 5.315483e-01
+  Delta: 2.087791e-02
+
+Event: GW200311_115853
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  5.627707e-01
+  Combined RMS PQG: 5.143662e-01
+  Delta: 4.840452e-02
+
+Event: GW200311_115853
+  Approximant: SEOBNRv4
+  beta2_best: 4.000000e-05
+  Combined RMS GR:  5.559136e-01
+  Combined RMS PQG: 5.164444e-01
+  Delta: 3.946926e-02
+
+Event: GW200308_173609
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-06
+  Combined RMS GR:  7.510434e-01
+  Combined RMS PQG: 5.995382e-01
+  Delta: 1.515052e-01
+
+Event: GW200308_173609
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.419851e-01
+  Combined RMS PQG: 5.900895e-01
+  Delta: 5.189566e-02
+
+Event: GW200306_093714
+  Approximant: IMRPhenomD
+  beta2_best: -7.000000e-05
+  Combined RMS GR:  6.099336e-01
+  Combined RMS PQG: 5.362817e-01
+  Delta: 7.365186e-02
+
+Event: GW200306_093714
+  Approximant: SEOBNRv4
+  beta2_best: -5.500000e-05
+  Combined RMS GR:  5.890983e-01
+  Combined RMS PQG: 5.294358e-01
+  Delta: 5.966247e-02
+
+Event: GW200225_060421
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.853584e-01
+  Combined RMS PQG: 4.964010e-01
+  Delta: 8.895744e-02
+
+Event: GW200225_060421
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.498264e-01
+  Combined RMS PQG: 4.963639e-01
+  Delta: 5.346254e-02
+
+Event: GW200224_222234
+  Approximant: IMRPhenomD
+  beta2_best: 2.000000e-05
+  Combined RMS GR:  9.774729e-01
+  Combined RMS PQG: 4.772885e-01
+  Delta: 5.001844e-01
+
+Event: GW200224_222234
+  Approximant: SEOBNRv4
+  beta2_best: -1.500000e-05
+  Combined RMS GR:  7.799564e-01
+  Combined RMS PQG: 4.780024e-01
+  Delta: 3.019540e-01
+
+Event: GW200220_124850
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.805345e-01
+  Combined RMS PQG: 5.122415e-01
+  Delta: 6.829293e-02
+
+Event: GW200220_124850
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.821574e-01
+  Combined RMS PQG: 5.123243e-01
+  Delta: 6.983313e-02
+
+Event: GW200220_061928
+  Approximant: IMRPhenomD
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  6.102977e-01
+  Combined RMS PQG: 5.768385e-01
+  Delta: 3.345919e-02
+
+Event: GW200220_061928
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.442817e-01
+  Combined RMS PQG: 5.602188e-01
+  Delta: 8.406290e-02
+
+Event: GW200219_094415
+  Approximant: IMRPhenomD
+  beta2_best: -2.500000e-05
+  Combined RMS GR:  5.345874e-01
+  Combined RMS PQG: 4.754436e-01
+  Delta: 5.914384e-02
+
+Event: GW200219_094415
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  5.374721e-01
+  Combined RMS PQG: 4.773491e-01
+  Delta: 6.012300e-02
+
+Event: GW200216_220804
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.377164e-01
+  Combined RMS PQG: 4.866933e-01
+  Delta: 5.102315e-02
+
+Event: GW200216_220804
+  Approximant: SEOBNRv4
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  5.360517e-01
+  Combined RMS PQG: 4.820539e-01
+  Delta: 5.399777e-02
+
+Event: GW200210_092254
+  Approximant: IMRPhenomD
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  5.739752e-01
+  Combined RMS PQG: 5.421245e-01
+  Delta: 3.185069e-02
+
+Event: GW200210_092254
+  Approximant: SEOBNRv4
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  5.792601e-01
+  Combined RMS PQG: 5.407918e-01
+  Delta: 3.846826e-02
+
+Event: GW200209_085452
+  Approximant: IMRPhenomD
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  5.487427e-01
+  Combined RMS PQG: 4.768397e-01
+  Delta: 7.190306e-02
+
+Event: GW200209_085452
+  Approximant: SEOBNRv4
+  beta2_best: -2.500000e-05
+  Combined RMS GR:  5.135733e-01
+  Combined RMS PQG: 4.756949e-01
+  Delta: 3.787837e-02
+
+Event: GW200208_222617
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  6.034429e-01
+  Combined RMS PQG: 5.237472e-01
+  Delta: 7.969563e-02
+
+Event: GW200208_222617
+  Approximant: SEOBNRv4
+  beta2_best: 3.000000e-05
+  Combined RMS GR:  6.489277e-01
+  Combined RMS PQG: 5.239226e-01
+  Delta: 1.250051e-01
+
+Event: GW200208_130117
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  5.819244e-01
+  Combined RMS PQG: 5.217896e-01
+  Delta: 6.013480e-02
+
+Event: GW200208_130117
+  Approximant: SEOBNRv4
+  beta2_best: -2.000000e-05
+  Combined RMS GR:  6.338911e-01
+  Combined RMS PQG: 5.225944e-01
+  Delta: 1.112967e-01
+
+Event: GW200202_154313
+  Approximant: IMRPhenomD
+  beta2_best: 2.000000e-05
+  Combined RMS GR:  5.583268e-01
+  Combined RMS PQG: 4.779799e-01
+  Delta: 8.034690e-02
+
+Event: GW200202_154313
+  Approximant: SEOBNRv4
+  beta2_best: 3.000000e-05
+  Combined RMS GR:  5.129211e-01
+  Combined RMS PQG: 4.778480e-01
+  Delta: 3.507311e-02
+
+Event: GW200129_065458
+  Approximant: IMRPhenomD
+  beta2_best: 8.500000e-05
+  Combined RMS GR:  6.664969e-01
+  Combined RMS PQG: 6.386647e-01
+  Delta: 2.783216e-02
+
+Event: GW200129_065458
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.958606e-01
+  Combined RMS PQG: 6.427619e-01
+  Delta: 5.309869e-02
+
+Event: GW200128_022011
+  Approximant: IMRPhenomD
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  6.423618e-01
+  Combined RMS PQG: 4.538483e-01
+  Delta: 1.885135e-01
+
+Event: GW200128_022011
+  Approximant: SEOBNRv4
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  6.212765e-01
+  Combined RMS PQG: 4.500485e-01
+  Delta: 1.712281e-01
+
+Event: GW200115_042309
+  Approximant: IMRPhenomD
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  4.870639e-01
+  Combined RMS PQG: 4.374449e-01
+  Delta: 4.961896e-02
+
+Event: GW191230_180458
+  Approximant: IMRPhenomD
+  beta2_best: -8.500000e-05
+  Combined RMS GR:  8.153103e-01
+  Combined RMS PQG: 5.997193e-01
+  Delta: 2.155910e-01
+
+Event: GW191230_180458
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.344855e-01
+  Combined RMS PQG: 5.990615e-01
+  Delta: 1.354240e-01
+
+Event: GW191222_033537
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.497925e-01
+  Combined RMS PQG: 5.642965e-01
+  Delta: 8.549601e-02
+
+Event: GW191222_033537
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.473373e-01
+  Combined RMS PQG: 5.663640e-01
+  Delta: 8.097326e-02
+
+Event: GW191219_163120
+  Approximant: IMRPhenomD
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  5.010860e-01
+  Combined RMS PQG: 4.462510e-01
+  Delta: 5.483506e-02
+
+Event: GW191219_163120
+  Approximant: SEOBNRv4
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  4.983186e-01
+  Combined RMS PQG: 4.478001e-01
+  Delta: 5.051843e-02
+
+Event: GW191215_223052
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  5.843081e-01
+  Combined RMS PQG: 5.331789e-01
+  Delta: 5.112927e-02
+
+Event: GW191215_223052
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  5.831903e-01
+  Combined RMS PQG: 5.336530e-01
+  Delta: 4.953732e-02
+
+Event: GW191204_171526
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.290100e-01
+  Combined RMS PQG: 4.890810e-01
+  Delta: 3.992895e-02
+
+Event: GW191204_171526
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.345868e-01
+  Combined RMS PQG: 4.884546e-01
+  Delta: 4.613221e-02
+
+Event: GW191204_110529
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.842179e-01
+  Combined RMS PQG: 5.372798e-01
+  Delta: 4.693819e-02
+
+Event: GW191204_110529
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.890939e-01
+  Combined RMS PQG: 5.292185e-01
+  Delta: 5.987549e-02
+
+Event: GW191129_134029
+  Approximant: IMRPhenomD
+  beta2_best: 3.000000e-05
+  Combined RMS GR:  5.707416e-01
+  Combined RMS PQG: 5.031814e-01
+  Delta: 6.756017e-02
+
+Event: GW191129_134029
+  Approximant: SEOBNRv4
+  beta2_best: 4.500000e-05
+  Combined RMS GR:  5.287147e-01
+  Combined RMS PQG: 5.011061e-01
+  Delta: 2.760860e-02
+
+Event: GW191127_050227
+  Approximant: IMRPhenomD
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  7.157510e-01
+  Combined RMS PQG: 6.966763e-01
+  Delta: 1.907471e-02
+
+Event: GW191127_050227
+  Approximant: SEOBNRv4
+  beta2_best: 5.000000e-06
+  Combined RMS GR:  7.113650e-01
+  Combined RMS PQG: 7.004175e-01
+  Delta: 1.094754e-02
+
+Event: GW191126_115259
+  Approximant: IMRPhenomD
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  5.885752e-01
+  Combined RMS PQG: 4.790873e-01
+  Delta: 1.094879e-01
+
+Event: GW191126_115259
+  Approximant: SEOBNRv4
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  5.912541e-01
+  Combined RMS PQG: 4.776943e-01
+  Delta: 1.135598e-01
+
+Event: GW191113_071753
+  Approximant: IMRPhenomD
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  6.254942e-01
+  Combined RMS PQG: 5.149291e-01
+  Delta: 1.105652e-01
+
+Event: GW191113_071753
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.975178e-01
+  Combined RMS PQG: 5.161927e-01
+  Delta: 8.132512e-02
+
+Event: GW191109_010717
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  8.046908e-01
+  Combined RMS PQG: 7.627061e-01
+  Delta: 4.198471e-02
+
+Event: GW191109_010717
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  8.540633e-01
+  Combined RMS PQG: 7.728835e-01
+  Delta: 8.117973e-02
+
+Event: GW191105_143521
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  6.661961e-01
+  Combined RMS PQG: 5.555378e-01
+  Delta: 1.106583e-01
+
+Event: GW191105_143521
+  Approximant: SEOBNRv4
+  beta2_best: 3.000000e-05
+  Combined RMS GR:  6.110489e-01
+  Combined RMS PQG: 5.574640e-01
+  Delta: 5.358496e-02
+
+Event: GW191103_012549
+  Approximant: IMRPhenomD
+  beta2_best: 5.000000e-06
+  Combined RMS GR:  6.008673e-01
+  Combined RMS PQG: 5.394390e-01
+  Delta: 6.142826e-02
+
+Event: GW191103_012549
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  6.029894e-01
+  Combined RMS PQG: 5.404370e-01
+  Delta: 6.255243e-02
+
+Event: GW190930_133541
+  Approximant: IMRPhenomD
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  5.810429e-01
+  Combined RMS PQG: 5.661011e-01
+  Delta: 1.494183e-02
+
+Event: GW190930_133541
+  Approximant: SEOBNRv4
+  beta2_best: 0.000000e+00
+  Combined RMS GR:  5.770021e-01
+  Combined RMS PQG: 5.652651e-01
+  Delta: 1.173702e-02
+
+Event: GW190929_012149
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  5.188388e-01
+  Combined RMS PQG: 4.788994e-01
+  Delta: 3.993933e-02
+
+Event: GW190929_012149
+  Approximant: SEOBNRv4
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  5.201281e-01
+  Combined RMS PQG: 4.775079e-01
+  Delta: 4.262028e-02
+
+Event: GW190926_050336
+  Approximant: IMRPhenomD
+  beta2_best: 7.500000e-05
+  Combined RMS GR:  5.455894e-01
+  Combined RMS PQG: 4.607417e-01
+  Delta: 8.484771e-02
+
+Event: GW190926_050336
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.184700e-01
+  Combined RMS PQG: 4.676766e-01
+  Delta: 5.079339e-02
+
+Event: GW190924_021846
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.144497e-01
+  Combined RMS PQG: 4.634320e-01
+  Delta: 5.101773e-02
+
+Event: GW190924_021846
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.019025e-01
+  Combined RMS PQG: 4.636310e-01
+  Delta: 3.827153e-02
+
+Event: GW190917_114630
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  4.629301e-01
+  Combined RMS PQG: 4.208722e-01
+  Delta: 4.205791e-02
+
+Event: GW190917_114630
+  Approximant: SEOBNRv4
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  4.797607e-01
+  Combined RMS PQG: 4.213371e-01
+  Delta: 5.842365e-02
+
+Event: GW190916_200658
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  6.903471e-01
+  Combined RMS PQG: 5.572549e-01
+  Delta: 1.330923e-01
+
+Event: GW190916_200658
+  Approximant: SEOBNRv4
+  beta2_best: -6.500000e-05
+  Combined RMS GR:  6.735578e-01
+  Combined RMS PQG: 5.438036e-01
+  Delta: 1.297542e-01
+
+Event: GW190915_235702
+  Approximant: IMRPhenomD
+  beta2_best: 2.000000e-05
+  Combined RMS GR:  4.702952e-01
+  Combined RMS PQG: 4.530712e-01
+  Delta: 1.722398e-02
+
+Event: GW190915_235702
+  Approximant: SEOBNRv4
+  beta2_best: 5.500000e-05
+  Combined RMS GR:  5.486876e-01
+  Combined RMS PQG: 4.565376e-01
+  Delta: 9.215004e-02
+
+Event: GW190910_112807
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW190910_112807
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW190828_065509
+  Approximant: IMRPhenomD
+  beta2_best: -9.500000e-05
+  Combined RMS GR:  5.389851e-01
+  Combined RMS PQG: 4.799894e-01
+  Delta: 5.899579e-02
+
+Event: GW190828_065509
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.304135e-01
+  Combined RMS PQG: 4.875717e-01
+  Delta: 4.284181e-02
+
+Event: GW190828_063405
+  Approximant: IMRPhenomD
+  beta2_best: -7.500000e-05
+  Combined RMS GR:  5.866684e-01
+  Combined RMS PQG: 5.611862e-01
+  Delta: 2.548224e-02
+
+Event: GW190828_063405
+  Approximant: SEOBNRv4
+  beta2_best: 3.000000e-05
+  Combined RMS GR:  6.191161e-01
+  Combined RMS PQG: 5.619439e-01
+  Delta: 5.717216e-02
+
+Event: GW190814
+  Approximant: IMRPhenomD
+  beta2_best: 4.500000e-05
+  Combined RMS GR:  6.414480e-01
+  Combined RMS PQG: 5.687539e-01
+  Delta: 7.269405e-02
+
+Event: GW190814
+  Approximant: SEOBNRv4
+  beta2_best: 5.000000e-05
+  Combined RMS GR:  6.522464e-01
+  Combined RMS PQG: 5.673118e-01
+  Delta: 8.493465e-02
+
+Event: GW190805_211137
+  Approximant: IMRPhenomD
+  beta2_best: -1.500000e-05
+  Combined RMS GR:  4.529975e-01
+  Combined RMS PQG: 4.420839e-01
+  Delta: 1.091359e-02
+
+Event: GW190805_211137
+  Approximant: SEOBNRv4
+  beta2_best: 2.000000e-05
+  Combined RMS GR:  5.041892e-01
+  Combined RMS PQG: 4.422976e-01
+  Delta: 6.189152e-02
+
+Event: GW190803_022701
+  Approximant: IMRPhenomD
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  5.684872e-01
+  Combined RMS PQG: 4.830371e-01
+  Delta: 8.545008e-02
+
+Event: GW190803_022701
+  Approximant: SEOBNRv4
+  beta2_best: -1.500000e-05
+  Combined RMS GR:  5.686671e-01
+  Combined RMS PQG: 4.913454e-01
+  Delta: 7.732166e-02
+
+Event: GW190731_140936
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.856149e-01
+  Combined RMS PQG: 5.535701e-01
+  Delta: 3.204484e-02
+
+Event: GW190731_140936
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.796410e-01
+  Combined RMS PQG: 5.470245e-01
+  Delta: 3.261650e-02
+
+Event: GW190728_064510
+  Approximant: IMRPhenomD
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  5.817496e-01
+  Combined RMS PQG: 5.070975e-01
+  Delta: 7.465209e-02
+
+Event: GW190728_064510
+  Approximant: SEOBNRv4
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  5.822156e-01
+  Combined RMS PQG: 5.084133e-01
+  Delta: 7.380222e-02
+
+Event: GW190727_060333
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.604583e-01
+  Combined RMS PQG: 7.524895e-01
+  Delta: 1.079688e-01
+
+Event: GW190727_060333
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.626757e-01
+  Combined RMS PQG: 7.516132e-01
+  Delta: 1.110625e-01
+
+Event: GW190725_174728
+  Approximant: IMRPhenomD
+  beta2_best: 4.000000e-05
+  Combined RMS GR:  5.960311e-01
+  Combined RMS PQG: 5.270124e-01
+  Delta: 6.901868e-02
+
+Event: GW190725_174728
+  Approximant: SEOBNRv4
+  beta2_best: 4.500000e-05
+  Combined RMS GR:  5.612783e-01
+  Combined RMS PQG: 5.265303e-01
+  Delta: 3.474803e-02
+
+Event: GW190720_000836
+  Approximant: IMRPhenomD
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  5.930556e-01
+  Combined RMS PQG: 5.130410e-01
+  Delta: 8.001463e-02
+
+Event: GW190720_000836
+  Approximant: SEOBNRv4
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  6.255505e-01
+  Combined RMS PQG: 5.086261e-01
+  Delta: 1.169245e-01
+
+Event: GW190719_215514
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.887699e-01
+  Combined RMS PQG: 5.452158e-01
+  Delta: 4.355410e-02
+
+Event: GW190719_215514
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.430005e-01
+  Combined RMS PQG: 5.428263e-01
+  Delta: 1.001742e-01
+
+Event: GW190707_093326
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.598732e-01
+  Combined RMS PQG: 4.959362e-01
+  Delta: 6.393694e-02
+
+Event: GW190707_093326
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.578753e-01
+  Combined RMS PQG: 4.964965e-01
+  Delta: 6.137875e-02
+
+Event: GW190706_222641
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  6.346520e-01
+  Combined RMS PQG: 6.263297e-01
+  Delta: 8.322333e-03
+
+Event: GW190706_222641
+  Approximant: SEOBNRv4
+  beta2_best: 8.500000e-05
+  Combined RMS GR:  6.345019e-01
+  Combined RMS PQG: 6.289713e-01
+  Delta: 5.530629e-03
+
+Event: GW190701_203306
+  Approximant: IMRPhenomD
+  beta2_best: 2.500000e-05
+  Combined RMS GR:  5.297774e-01
+  Combined RMS PQG: 4.400123e-01
+  Delta: 8.976508e-02
+
+Event: GW190701_203306
+  Approximant: SEOBNRv4
+  beta2_best: 8.000000e-05
+  Combined RMS GR:  4.768428e-01
+  Combined RMS PQG: 4.487604e-01
+  Delta: 2.808231e-02
+
+Event: GW190602_175927
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.732323e-01
+  Combined RMS PQG: 5.396179e-01
+  Delta: 3.361447e-02
+
+Event: GW190602_175927
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.438988e-01
+  Combined RMS PQG: 5.245462e-01
+  Delta: 1.935260e-02
+
+Event: GW190527_092055
+  Approximant: IMRPhenomD
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  5.073341e-01
+  Combined RMS PQG: 4.688544e-01
+  Delta: 3.847974e-02
+
+Event: GW190527_092055
+  Approximant: SEOBNRv4
+  beta2_best: -1.500000e-05
+  Combined RMS GR:  4.820322e-01
+  Combined RMS PQG: 4.638684e-01
+  Delta: 1.816378e-02
+
+Event: GW190521_074359
+  Approximant: IMRPhenomD
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  5.809850e-01
+  Combined RMS PQG: 5.447631e-01
+  Delta: 3.622185e-02
+
+Event: GW190521_074359
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.871924e-01
+  Combined RMS PQG: 5.371326e-01
+  Delta: 5.005986e-02
+
+Event: GW190521
+  Approximant: IMRPhenomD
+  beta2_best: 9.000000e-05
+  Combined RMS GR:  5.318283e-01
+  Combined RMS PQG: 4.696411e-01
+  Delta: 6.218721e-02
+
+Event: GW190521
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  5.413148e-01
+  Combined RMS PQG: 4.745729e-01
+  Delta: 6.674184e-02
+
+Event: GW190519_153544
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  8.988930e-01
+  Combined RMS PQG: 7.300189e-01
+  Delta: 1.688741e-01
+
+Event: GW190519_153544
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.806126e-01
+  Combined RMS PQG: 7.237086e-01
+  Delta: 5.690399e-02
+
+Event: GW190517_055101
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.095896e-01
+  Combined RMS PQG: 5.801586e-01
+  Delta: 2.943094e-02
+
+Event: GW190517_055101
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.129441e-01
+  Combined RMS PQG: 5.686065e-01
+  Delta: 1.443376e-01
+
+Event: GW190514_065416
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.800876e-01
+  Combined RMS PQG: 4.804545e-01
+  Delta: 9.963308e-02
+
+Event: GW190514_065416
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.745047e-01
+  Combined RMS PQG: 4.780068e-01
+  Delta: 9.649796e-02
+
+Event: GW190513_205428
+  Approximant: IMRPhenomD
+  beta2_best: -8.500000e-05
+  Combined RMS GR:  5.320521e-01
+  Combined RMS PQG: 5.102785e-01
+  Delta: 2.177366e-02
+
+Event: GW190513_205428
+  Approximant: SEOBNRv4
+  beta2_best: -6.000000e-05
+  Combined RMS GR:  5.211543e-01
+  Combined RMS PQG: 5.112612e-01
+  Delta: 9.893104e-03
+
+Event: GW190512_180714
+  Approximant: IMRPhenomD
+  beta2_best: 4.500000e-05
+  Combined RMS GR:  5.881810e-01
+  Combined RMS PQG: 5.342967e-01
+  Delta: 5.388433e-02
+
+Event: GW190512_180714
+  Approximant: SEOBNRv4
+  beta2_best: 4.500000e-05
+  Combined RMS GR:  5.730498e-01
+  Combined RMS PQG: 5.328580e-01
+  Delta: 4.019174e-02
+
+Event: GW190503_185404
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  5.381187e-01
+  Combined RMS PQG: 4.392502e-01
+  Delta: 9.886851e-02
+
+Event: GW190503_185404
+  Approximant: SEOBNRv4
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  5.368429e-01
+  Combined RMS PQG: 4.395506e-01
+  Delta: 9.729229e-02
+
+Event: GW190426_190642
+  Approximant: IMRPhenomD
+  beta2_best: -9.000000e-05
+  Combined RMS GR:  5.974994e-01
+  Combined RMS PQG: 5.408458e-01
+  Delta: 5.665361e-02
+
+Event: GW190426_190642
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.476103e-01
+  Combined RMS PQG: 6.093645e-01
+  Delta: 3.824583e-02
+
+Event: GW190425
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  nan
+  Combined RMS PQG: nan
+  Delta: nan
+
+Event: GW190421_213856
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  5.525917e-01
+  Combined RMS PQG: 5.187658e-01
+  Delta: 3.382595e-02
+
+Event: GW190421_213856
+  Approximant: SEOBNRv4
+  beta2_best: -1.500000e-05
+  Combined RMS GR:  6.341354e-01
+  Combined RMS PQG: 5.188955e-01
+  Delta: 1.152399e-01
+
+Event: GW190413_134308
+  Approximant: IMRPhenomD
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  5.404148e-01
+  Combined RMS PQG: 4.674232e-01
+  Delta: 7.299160e-02
+
+Event: GW190413_134308
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  5.289985e-01
+  Combined RMS PQG: 4.709752e-01
+  Delta: 5.802325e-02
+
+Event: GW190413_052954
+  Approximant: IMRPhenomD
+  beta2_best: -6.000000e-05
+  Combined RMS GR:  5.932046e-01
+  Combined RMS PQG: 5.350459e-01
+  Delta: 5.815871e-02
+
+Event: GW190413_052954
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  7.242578e-01
+  Combined RMS PQG: 5.344501e-01
+  Delta: 1.898078e-01
+
+Event: GW190412
+  Approximant: IMRPhenomD
+  beta2_best: -4.500000e-05
+  Combined RMS GR:  6.620400e-01
+  Combined RMS PQG: 6.076773e-01
+  Delta: 5.436279e-02
+
+Event: GW190412
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.482630e-01
+  Combined RMS PQG: 6.061228e-01
+  Delta: 4.214022e-02
+
+Event: GW190408_181802
+  Approximant: IMRPhenomD
+  beta2_best: -5.000000e-05
+  Combined RMS GR:  6.897774e-01
+  Combined RMS PQG: 6.033875e-01
+  Delta: 8.638985e-02
+
+Event: GW190408_181802
+  Approximant: SEOBNRv4
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  6.201057e-01
+  Combined RMS PQG: 6.003899e-01
+  Delta: 1.971576e-02
+
+Event: GW190403_051519
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  1.139723e+00
+  Combined RMS PQG: 1.026679e+00
+  Delta: 1.130443e-01
+
+Event: GW190403_051519
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  1.130917e+00
+  Combined RMS PQG: 1.027708e+00
+  Delta: 1.032089e-01
+
+Event: GW170823
+  Approximant: IMRPhenomD
+  beta2_best: -8.500000e-05
+  Combined RMS GR:  9.244758e-01
+  Combined RMS PQG: 8.514779e-01
+  Delta: 7.299795e-02
+
+Event: GW170823
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  9.233559e-01
+  Combined RMS PQG: 8.411070e-01
+  Delta: 8.224887e-02
+
+Event: GW170818
+  Approximant: IMRPhenomD
+  beta2_best: -2.500000e-05
+  Combined RMS GR:  6.352877e-01
+  Combined RMS PQG: 6.060868e-01
+  Delta: 2.920087e-02
+
+Event: GW170818
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-05
+  Combined RMS GR:  7.042579e-01
+  Combined RMS PQG: 6.059743e-01
+  Delta: 9.828350e-02
+
+Event: GW170817
+  Approximant: IMRPhenomD
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  3.346172e-01
+  Combined RMS PQG: 3.306003e-01
+  Delta: 4.016966e-03
+
+Event: GW170814
+  Approximant: IMRPhenomD
+  beta2_best: -4.000000e-05
+  Combined RMS GR:  6.877887e-01
+  Combined RMS PQG: 6.179281e-01
+  Delta: 6.986059e-02
+
+Event: GW170814
+  Approximant: SEOBNRv4
+  beta2_best: -3.500000e-05
+  Combined RMS GR:  6.909180e-01
+  Combined RMS PQG: 6.165309e-01
+  Delta: 7.438707e-02
+
+Event: GW170809
+  Approximant: IMRPhenomD
+  beta2_best: 1.000000e-04
+  Combined RMS GR:  7.214605e-01
+  Combined RMS PQG: 6.408522e-01
+  Delta: 8.060835e-02
+
+Event: GW170809
+  Approximant: SEOBNRv4
+  beta2_best: 1.000000e-05
+  Combined RMS GR:  7.743257e-01
+  Combined RMS PQG: 6.446504e-01
+  Delta: 1.296753e-01
+
+Event: GW170729
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.757140e-01
+  Combined RMS PQG: 5.854487e-01
+  Delta: 9.026532e-02
+
+Event: GW170729
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.390558e-01
+  Combined RMS PQG: 5.832445e-01
+  Delta: 5.581130e-02
+
+Event: GW170608
+  Approximant: IMRPhenomD
+  beta2_best: -2.500000e-05
+  Combined RMS GR:  5.879716e-01
+  Combined RMS PQG: 5.355553e-01
+  Delta: 5.241630e-02
+
+Event: GW170608
+  Approximant: SEOBNRv4
+  beta2_best: -3.000000e-05
+  Combined RMS GR:  6.135539e-01
+  Combined RMS PQG: 5.367435e-01
+  Delta: 7.681041e-02
+
+Event: GW170104
+  Approximant: IMRPhenomD
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  7.905988e-01
+  Combined RMS PQG: 5.351852e-01
+  Delta: 2.554136e-01
+
+Event: GW170104
+  Approximant: SEOBNRv4
+  beta2_best: 3.500000e-05
+  Combined RMS GR:  7.691761e-01
+  Combined RMS PQG: 5.351641e-01
+  Delta: 2.340120e-01
+
+Event: GW151226
+  Approximant: IMRPhenomD
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  6.692565e-01
+  Combined RMS PQG: 6.493832e-01
+  Delta: 1.987329e-02
+
+Event: GW151226
+  Approximant: SEOBNRv4
+  beta2_best: -1.000000e-04
+  Combined RMS GR:  7.162572e-01
+  Combined RMS PQG: 6.443219e-01
+  Delta: 7.193529e-02
+
+Event: GW151012
+  Approximant: IMRPhenomD
+  beta2_best: -6.000000e-05
+  Combined RMS GR:  6.730400e-01
+  Combined RMS PQG: 6.242758e-01
+  Delta: 4.876428e-02
+
+Event: GW151012
+  Approximant: SEOBNRv4
+  beta2_best: -8.500000e-05
+  Combined RMS GR:  6.934202e-01
+  Combined RMS PQG: 6.233321e-01
+  Delta: 7.008811e-02
+
+Event: GW150914
+  Approximant: IMRPhenomD
+  beta2_best: 7.000000e-05
+  Combined RMS GR:  1.009641e+00
+  Combined RMS PQG: 9.399200e-01
+  Delta: 6.972144e-02
+
+Event: GW150914
+  Approximant: SEOBNRv4
+  beta2_best: 4.500000e-05
+  Combined RMS GR:  1.028021e+00
+  Combined RMS PQG: 9.446346e-01
+  Delta: 8.338602e-02
+
+
+GLOBAL SIGNIFICANCE:
+  N pairs: 484
+  mean Δ: 8.262171e-02
+  std Δ:  5.685385e-02
+  Z-score: 31.971
+  p-value: 0.000e+00
