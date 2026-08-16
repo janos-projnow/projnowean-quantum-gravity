@@ -1,0 +1,10 @@
+[INFO] Loading DATA...
+[INFO] Loading MC Slices...
+
+==================================================
+  PRIOR-CONSTRAINED FIT RESULTS
+==================================================
+Optimal Scale Factor (Nuisance): 0.1919
+Fitted Beta (constrained by GW): -0.052601
+Corrected Significance (Z-score): 13.750 sigma
+==================================================
