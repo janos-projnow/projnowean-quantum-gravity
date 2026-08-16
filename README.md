@@ -121,6 +121,8 @@ https://github.com/manimCommunity/manim
 
 - **Avery, Steven G. and Schwab, Ulf W. Burkhard**, *Ward identities and emergent diffeomorphism symmetry from lattice redundancy*, 2015, https://arxiv.org/abs/1510.07038
 
+- **LHC Collaboration**, *ATLAS ROOT ntuple format Run 2 2015+2016 proton-proton collision data beta release, 1LMET30 skim*, 2015, https://arxiv.org/abs/1510.07038
+
 - **Abbott, Bruce P. and et al.**, *Observation of Gravitational Waves from a Binary Black Hole Merger*, 2016, DOI: 10.1103/PhysRevLett.116.061102, https://doi.org/10.1103/PhysRevLett.116.061102
 
 - **Chakraborty, Sumanta**, *Quadratic and nonlinear recovery of the Einstein--Hilbert action from lattice elasticity*, 2016, https://arxiv.org/abs/1607.05986
