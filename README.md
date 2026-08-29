@@ -20,6 +20,16 @@ https://youtu.be/qZSPvah_gLk
 Tutorial video - Photon-channel:
 https://youtu.be/dgBbYyFaidI
 
+Quantum Gravity Simulations:
+https://youtu.be/T3ChjBND8dM
+https://youtu.be/9GkRxQS5qlE
+
+OSF Project DOI:
+https://doi.org/10.17605/OSF.IO/GH42S
+
+OSF Registration DOI:
+https://doi.org/10.17605/OSF.IO/8567A
+
 Major Update: Multimessenger Evidence for Planck‑Scale Quantum Gravity
 
 After months of cross‑validated analysis, strengthened null tests, and independent pipelines, a decisive pattern has emerged:
