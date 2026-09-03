@@ -24,6 +24,9 @@ Quantum Gravity Simulations:
 https://youtu.be/T3ChjBND8dM
 https://youtu.be/9GkRxQS5qlE
 
+OSF Preprint:
+https://doi.org/10.31237/osf.io/jfqzr_v1
+
 OSF Project DOI:
 https://doi.org/10.17605/OSF.IO/GH42S
 
