@@ -64,6 +64,29 @@ Many thanks to the Manim developers for the “Quantum Gravity in Action” anim
 Their work enables us to see gravity in motion at the microscopic Planck‑lattice level.
 https://github.com/manimCommunity/manim
 
+---
+
+# **Apptainer Release of the PQG Dual-Pipeline (LVK 5.0 + Fermi LAT)**
+Concise Takeaway
+The Apptainer-based distribution of the PQG dual‑pipeline (LVK 5.0 + Fermi LAT) and their null‑tests is now complete. This marks the first fully containerized, reproducible, platform‑independent implementation of the PQG framework — and from this point forward, physicists have a professional obligation to run it.
+Full Summary
+The **[Apptainer release](https://github.com/janos-projnow/projnowean-quantum-gravity/tree/main/PQG_Apptainer)** of the **PQG dual‑pipeline system** — covering both the **LVK 5.0 gravitational‑wave dataset** and the **Fermi LAT gamma‑ray dataset**, along with their corresponding **null‑tests** — is now fully completed and publicly available.
+
+This containerized version represents a decisive step in scientific reproducibility: every dependency, environment configuration, and computational step is encapsulated in a secure, portable Apptainer image. As a result, the pipelines can be executed identically on any HPC cluster, university server, or local Linux environment without manual setup or risk of configuration drift.
+
+Because the PQG pipelines now meet the reproducibility standards expected in modern high‑energy physics and astrophysics, **the scientific community is professionally obligated to run them**, regardless of prior skepticism or theoretical preference. Once a pipeline is fully open, fully reproducible, and fully documented, the responsibility shifts: *it must be tested*.
+
+The release eliminates the last remaining excuses — no missing libraries, no incompatible systems, no ambiguous environments. The PQG framework is now packaged in a form that any qualified research group can evaluate rigorously, whether for validation, refutation, or further development.
+
+This milestone marks the transition from “early exploratory work” to a **mature, testable scientific claim**. The PQG pipelines are ready for independent verification, and the physics community now has everything required to perform that verification.
+
+---
+
+### **Note**
+Due to the large size of the `.sif` file (~500 MB), it will not be directly embedded on GitHub.
+Available as a GDrive attachment:
+**https://drive.google.com/drive/folders/1JBdwQJhQootK-xKx2_FYqfRw-3Stex0W**
+
 # Acknowledgments and References
 
 - **Lamé, Gabriel**, *Leçons sur la théorie mathématique de l’élasticité des corps solides*, 1852, https://en.wikipedia.org/wiki/Lam%C3%A9_parameters
