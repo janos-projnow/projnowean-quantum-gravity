@@ -67,9 +67,13 @@ https://github.com/manimCommunity/manim
 ---
 
 # **Apptainer Release of the PQG Dual-Pipeline (LVK 5.0 + Fermi LAT)**
+
 Concise Takeaway
+
 The Apptainer-based distribution of the PQG dual‑pipeline (LVK 5.0 + Fermi LAT) and their null‑tests is now complete. This marks the first fully containerized, reproducible, platform‑independent implementation of the PQG framework — and from this point forward, physicists have a professional obligation to run it.
+
 Full Summary
+
 The **[Apptainer release](https://github.com/janos-projnow/projnowean-quantum-gravity/tree/main/PQG_Apptainer)** of the **PQG dual‑pipeline system** — covering both the **LVK 5.0 gravitational‑wave dataset** and the **Fermi LAT gamma‑ray dataset**, along with their corresponding **null‑tests** — is now fully completed and publicly available.
 
 This containerized version represents a decisive step in scientific reproducibility: every dependency, environment configuration, and computational step is encapsulated in a secure, portable Apptainer image. As a result, the pipelines can be executed identically on any HPC cluster, university server, or local Linux environment without manual setup or risk of configuration drift.
