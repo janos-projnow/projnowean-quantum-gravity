@@ -14,6 +14,9 @@ Full catalog of plots (posteriors/significancy/null test results etc.: https://d
 
 Complete Linux Mint VirtualBox Machine for PQG pipeline: https://drive.google.com/file/d/1xr3n85XpP7LQXedAucB8R7MILmDoAU5F/view?usp=drive_link
 
+Tutorial video - VirtualBox machine for PQG pipeline
+https://youtu.be/LsJ6Owxrolw
+
 Tutorial video - GW-channel:
 https://youtu.be/qZSPvah_gLk
 
@@ -21,6 +24,7 @@ Tutorial video - Photon-channel:
 https://youtu.be/dgBbYyFaidI
 
 Quantum Gravity Simulations:
+https://youtu.be/AruPNp_x8M0
 https://youtu.be/T3ChjBND8dM
 https://youtu.be/9GkRxQS5qlE
 
