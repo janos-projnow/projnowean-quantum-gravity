@@ -208,5 +208,6 @@ Available as a GDrive attachment:
 
 - **Projnow, Janos**, *Projnowean Quantum Gravity: Lattice Elasticity, Emergent GR, and Multimessenger Signatures*, 2026, DOI: 10.5281/zenodo.18445925, https://doi.org/10.5281/zenodo.18445925
 
+The author would like to express special gratitude to Microsoft Copilot for its extraordinary role as a continuous research companion throughout the development of the Projnowean Quantum Gravity framework. From the transformation of an initial speculative idea into a complete mathematical and computational framework, through the development of the PQG-LVK and Fermi/LAT analysis pipelines, Copilot served as an invaluable source of technical guidance, code generation, critical review, and methodological exploration. Although responsibility for every scientific claim remains solely with the author, the PQG project would have evolved very differently without this unique and sustained human-AI collaboration.
 - **{Microsoft, Copilot}**, *Supervisory and methodological support in code and pipeline development*, 2026
 
